@@ -183,6 +183,13 @@
 		"astrology": ["Libra"],
 		"elements": ["Air"],
 		"answer": "Yes"
+	},
+	{
+		"name": "3 of Swords",
+		"qualities": {
+			"general": "Triplicity, expression, expansion of the idea, growth, first stages",
+			"upright": ""
+		}
 	}
 
 
