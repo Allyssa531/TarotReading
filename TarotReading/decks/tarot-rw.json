@@ -62,7 +62,130 @@
 		],
 		"elements": ["Earth"],
 		"answer":"No"
+	},
+	{
+		"name": "10 of Wands",
+		"qualities": {
+			"general": "Ultimate completion, final manifestation, result of true will, recognition, continuation, realization, endings",
+			"upright": "Burden, extra responsibility, hard work, completion",
+			"reversed": "Doing it all, carrying the burden, delegation, release, overstressed, burnout"
+		},
+		"astrology": ["3rd Decan Sagittarius"],
+		"elements": ["Fire"],
+		"answer": "No"
+	},
+	{
+		"name": "Queen of Cups",
+		"qualities": {
+			"general": "null",
+			"upright": "Compation, comfort, calm, nurturing, healing, emotionally stable, intuitive, caring",
+			"reversed": "Inner feelings, self care, self love, codependency, insecurity"
+		},
+		"astrology": ["3rd Decan Gemini", "2nd Decan Cancer"],
+		"elements": ["Water", "Water"],
+		"answer":"Yes"
+	},
+	{
+		"name": "4 of Swords",
+		"qualities": {
+			"general": "Form, completeness, foundations, progress, power, stability",
+			"upright": "Rest, relaxation, meditation, contemplation, recuperation, retreat, renewal, solitude",
+			"reversed": "Exhaustion, burnout, deep contemplation, stagnation, restlessness, stress"
+		},
+		"astrology": ["3rd Decan Libra"],
+		"elements": ["Air"],
+		"answer": "Maybe"
+	},
+	{
+		"name": "Ace of Pentacles",
+		"qualities": {
+			"general": "Pioneering, leading, alpha, dominance, ambitious, originality",
+			"upright": "Abundance, manifestation, opportunity, new career or financial opportunity, new venture, prosperity",
+			"reversed": "Lost opportunity, missed chance, bad investment, lack of planning and foresight"
+		},
+		"astrology": [],
+		"elements": ["Earth"],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Lovers",
+		"qualities": {
+			"general": "Balance, home, and responsibility",
+			"upright": "Love, harmony, relationships, union, partnerships, sexuality, passion, values, alignment, deep love, a choice, the strength of two together",
+			"reversed": "Self-love, disharmony, imbalance, misalignment of vales, suffering, detachment, obediance, conflict, bad choices, indecision, fear of commitment"
+		},
+		"astrology": ["Gemini"],
+		"elements": ["Air"],
+		"answer": "Yes"
+	},
+	{
+		"name":"10 of Cups",
+		"qualities": {
+			"general": "Ultimate completion, final manifestation, result of true will, recognition, continuation, realization, endings",
+			"upright": "Divine love, harmony, blissful relationships, alignment, inner happiness, fulfillment, dreams come true, family contentment, total love and support",
+			"reversed": "Shattered dreams, broken family, domestic disharmony, disconnection, misaligned values, struggling relationships"
+		},
+		"astrology": ["3rd Decan Pisces"],
+		"elements": ["Water"],
+		"answer": "Yes"
+	},
+	{
+		"name": "King of Wands",
+		"qualities": {
+			"general": "null",
+			"upright": "Natural leader, visionary, entrepreneur, big picture, overcoming challenges, mature, career focused",
+			"reversed": "Impulsiveness, ruthless, high expectations, haste, unachievable expectations"
+		},
+		"astrology": ["3rd Decan Scorpio", "2nd Decan Sagittarius"],
+		"elements": ["Fire", "Fire"],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Empress",
+		"qualities": {
+			"general": "Exellent communication and creativity, someone who is generally optimistic",
+			"upright": "Abundance, nurturing, fertility, feminine, good parenting, development, accomplishment, growth, evolution, action",
+			"reversed": "Creative block, selfish, imaptient, dependent on others, inaction, lack of concentration, indecisive, overwhelmed, anxiety, infidelity"
+		},
+		"astrology": ["Venus"],
+		"elements": ["Earth"],
+		"answer": "Yes"
+	},
+	{
+		"name": "9 of Wands",
+		"qualities": {
+			"general": "Strength, compassion, completion, optimism, suffering",
+			"upright": "Courage, persistence, test of faith, resilience, boundaries, last stand, gearing up for worst, pessimism, weary",
+			"reversed": "Inner resources, struggle, overwhelmed, on edge, defensive, paranoia, exhaustion, fatigue, lack of motivation"
+		},
+		"astrology": ["2nd Decan Sagittarius"],
+		"elements": ["Fire"],
+		"answer": "Yes"
+	},
+	{
+		"name": "Sun",
+		"qualities": {
+			"general": "19 which reduces to 1, the number for new beginnings and success",
+			"upright": "Positivity, pleasure, vitality, fun, joy, warmth, celebration, success, rebirth, all is well",
+			"reversed": "Inner child, feeling down, overly optimistic, negativity, depression, sadness, carelessness, arogance"
+		},
+		"astrology": ["Sun"],
+		"elements": ["Fire"],
+		"answer": "Yes"
+	},
+	{
+		"name": "Justice",
+		"qualities": {
+			"general": "A spiritual number. Eleven can reduce to 2 which is about balancing the polarities in a given situation",
+			"upright": "Justice, fairness, truth, clarity, equality, balance, cause and effect, law",
+			"reversed": "Unfairness, lack of accountability, guilt, dishonesty, punishment"
+		},
+		"astrology": ["Libra"],
+		"elements": ["Air"],
+		"answer": "Yes"
 	}
+
+
 
 
 
