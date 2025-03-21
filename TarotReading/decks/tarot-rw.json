@@ -1,0 +1,73 @@
+[
+	{
+		"name": "7 of Swords",
+		"qualities": {
+			"general": "Regaining or losing control, mastery, choices, resposibility, myth, secrets",
+			"upright": "Betrayal, deception, getting away with something, acting strategically, trickery",
+			"reversed": "Coming clean, rethinking approach, deception, self-deceit, keeping secrets"
+		},
+		"astrology": [
+			"3rd Decan Aquarius"
+		],
+		"elements": ["Air"],
+		"answer": "No"
+	},
+
+	{
+		"name": "3 of Wands",
+		"qualities": {
+			"general": "Triplicity, expression, expansion of the idea, growth, first stages",
+			"upright": "Preparaiton, progres, foresight, enterprise, expansion, overseas oppertunities",
+			"reversed": "Playing small, lack of planning, lack of foresight, unexpected delays, obstacles to long term goals"
+		},
+		"astrology": [
+			"2nd Decan Aries"
+		],
+		"elements": ["Fire"],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Chariot",
+		"qualities": {
+			"general": "Will-power and control",
+			"upright": "Movement, progress, action, integration, determination, willpower, control, direction, departure, courage",
+			"reversed": "Self-destructive, opposition, lack of direction, lack of control, aggresion, arrogance, careless"
+		},
+		"astrology": ["Cancer"],
+		"elements": ["Water"],
+		"answer": "Yes"
+	},
+	{
+		"name":"7 of Wands",
+		"qualities": {
+			"general": "Regaining or losing control, mastery, choices, resposibility, myth, secrets",
+			"upright": "Challenge, competition, protection, perseverance, defense, maintaining control",
+			"reversed": "Exhaustion, giving up, destroyed confidence, overwhelmed, overly protective"
+		},
+		"astrology": [
+			"3rd Decan Leo"
+		],
+		"elements": ["Fire"],
+		"answer": "No"
+	},
+	{
+		"name": "5 of Pentacles",
+		"qualities": {
+			"general": "Instability, exaggeration, overexertion, strife, changes, freedom, loss",
+			"upright": "Financial loss, lack of mindset, loss, isolation, worry, need, poverty, insecurity",
+			"reversed": "Recovery from financial loss, spiritual poverty, charity, improvement"
+		},
+		"astrology": [
+			"1st Decan Taurus"
+		],
+		"elements": ["Earth"],
+		"answer":"No"
+	}
+
+
+
+
+
+
+
+]
