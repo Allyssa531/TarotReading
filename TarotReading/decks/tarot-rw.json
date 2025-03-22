@@ -9,10 +9,11 @@
 		"astrology": [
 			"3rd Decan Aquarius"
 		],
-		"elements": ["Air"],
+		"elements": [
+			"Air"
+		],
 		"answer": "No"
 	},
-
 	{
 		"name": "3 of Wands",
 		"qualities": {
@@ -23,7 +24,9 @@
 		"astrology": [
 			"2nd Decan Aries"
 		],
-		"elements": ["Fire"],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
 	},
 	{
@@ -33,12 +36,16 @@
 			"upright": "Movement, progress, action, integration, determination, willpower, control, direction, departure, courage",
 			"reversed": "Self-destructive, opposition, lack of direction, lack of control, aggresion, arrogance, careless"
 		},
-		"astrology": ["Cancer"],
-		"elements": ["Water"],
+		"astrology": [
+			"Cancer"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Yes"
 	},
 	{
-		"name":"7 of Wands",
+		"name": "7 of Wands",
 		"qualities": {
 			"general": "Regaining or losing control, mastery, choices, resposibility, myth, secrets",
 			"upright": "Challenge, competition, protection, perseverance, defense, maintaining control",
@@ -47,7 +54,9 @@
 		"astrology": [
 			"3rd Decan Leo"
 		],
-		"elements": ["Fire"],
+		"elements": [
+			"Fire"
+		],
 		"answer": "No"
 	},
 	{
@@ -60,396 +69,506 @@
 		"astrology": [
 			"1st Decan Taurus"
 		],
-		"elements": ["Earth"],
-		"answer":"No"
+		"elements": [
+			"Earth"
+		],
+		"answer": "No"
 	},
 	{
 		"name": "2 of Pentacles",
 		"qualities": {
 			"general": "duality, togetherness, a settling of the energy, union, love, balance",
-			"upright": "multiple priorities, time management, adaptability, balancing decisions", 
+			"upright": "multiple priorities, time management, adaptability, balancing decisions",
 			"reversed": "over committed, disorganized, reprioritize, lack of balance, overwhelmed"
 		},
 		"astrology": [
 			"1st Decan Capricorn"
 		],
-		"elements": ["Earth"], 
+		"elements": [
+			"Earth"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "5 of Wands", 
+		"name": "5 of Wands",
 		"qualities": {
 			"general": "instability, exaggeration, overexertion, strife, changes, freedom, loss",
 			"upright": "competition, rivalry, conflict, disagreements, strife, tension",
 			"reversed": "avoiding conflict, respecting differences, agreeing to disagree, diversity"
-		}, 
+		},
 		"astrology": [
 			"1st Decan Leo"
-		], 
-		"elements": ["Fire"], 
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "No"
-	}, 
+	},
 	{
-		"name": "The Moon", 
+		"name": "The Moon",
 		"qualities": {
 			"general": "the number 18, reduces to 9. It is about completion and selflessness",
 			"upright": "illusion, mystery dreams, intuition, fear, anxiety, subconscious, premonitions",
 			"reversed": "release of fear, repressing emotion, inner confusion, misinterpretation, darkness, insecurities"
 		},
-		"astrology": ["Pisces"],
-		"elements": ["Water"],
+		"astrology": [
+			"Pisces"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "No"
-	}, 
+	},
 	{
-		"name": "2 of Wands", 
+		"name": "2 of Wands",
 		"qualities": {
-			"general":"duality, togetherness, a settling of the energy, union, love, balance", 
-			"upright": "planning, progress, making decisions, discovery, leaving home, travel plans", 
+			"general": "duality, togetherness, a settling of the energy, union, love, balance",
+			"upright": "planning, progress, making decisions, discovery, leaving home, travel plans",
 			"reversed": "personal goals, inner alignment, fear of unknown, fear of change, playing it safe, lack of planning"
-		}, 
-		"astrology": ["1st Decan Aries"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"1st Decan Aries"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Queen of Pentacles", 
+		"name": "Queen of Pentacles",
 		"qualities": {
 			"general": "null",
-			"upright": "Nurturing, practical, providing financially, a working parent", 
+			"upright": "Nurturing, practical, providing financially, a working parent",
 			"reversed": "financial independence, self care, work-home conflict, self centered, jealousym smothering"
-		}, 
-		"astrology": ["1st Decan Sagittarius", "2nd Decan Capricorn"], 
-		"elements": ["Water", "Earth"], 
+		},
+		"astrology": [
+			"1st Decan Sagittarius",
+			"2nd Decan Capricorn"
+		],
+		"elements": [
+			"Water",
+			"Earth"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Ace of Swords", 
+		"name": "Ace of Swords",
 		"qualities": {
-			"general": "pioneering, leading, alpha, dominance, ambitious, originality", 
+			"general": "pioneering, leading, alpha, dominance, ambitious, originality",
 			"upright": "mental clarity, breakthroughs, new ideas, success, sharp mind, new conflict, surgery",
 			"reversed": "confusion, brutality, chaos, inner clarity, rethinking an idea, clouded judgement"
 		},
 		"astrology": [],
-		"elements": ["Air"], 
-		"answer": "Yes" 
-	}, 
-	{
-		"name": "3 of Pentacles", 
-		"qualities": {
-			"general": "triplicity, expression, expansion of the idea, growth, first stages of completion", 
-			"upright": "teamwork, collaboration, learning, implementation, building something",
-			"reversed": "disharmony, misalignment, working alone, lack of teamwork, disorganized, group conflict"
-		}, 
-		"astrology": ["2nd Decan Capricorn"], 
-		"elements": ["Earth"], 
+		"elements": [
+			"Air"
+		],
 		"answer": "Yes"
 	},
 	{
-		"name": "Justice", 
+		"name": "3 of Pentacles",
 		"qualities": {
-			"general": "a spiritual number, Eleven can reduce to 2, which is about balancing the polarities in a given situation", 
+			"general": "triplicity, expression, expansion of the idea, growth, first stages of completion",
+			"upright": "teamwork, collaboration, learning, implementation, building something",
+			"reversed": "disharmony, misalignment, working alone, lack of teamwork, disorganized, group conflict"
+		},
+		"astrology": [
+			"2nd Decan Capricorn"
+		],
+		"elements": [
+			"Earth"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Justice",
+		"qualities": {
+			"general": "a spiritual number, Eleven can reduce to 2, which is about balancing the polarities in a given situation",
 			"upright": "justice, fairness, truth, clarity, equality, balance, cause and effect, law",
 			"reversed": "unfairness, lack of accountability, guilt, dishonesty, punishment"
 		},
-		"astrology": ["Libra"],
-		"elements": ["Air"], 
+		"astrology": [
+			"Libra"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "The Emperor", 
+		"name": "The Emperor",
 		"qualities": {
-			"general": "organisational skills, reliability, and the ability to work hard", 
+			"general": "organisational skills, reliability, and the ability to work hard",
 			"upright": "respect, leadership, stability, structure, rules and power, authority, father figure, protection, control, discipline, focus, practicality",
 			"reversed": "domineering, controlling, lack of discipline, rigid, stubborn, tyrant, recklessness"
-		}, 
-		"astrology": ["Aries"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"Aries"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Page of Wands", 
+		"name": "Page of Wands",
 		"qualities": {
-			"general": "null", 
-			"upright": "inspiration, ideas, discovery, limitless potential, free spirit, exploration, excitement, freedom", 
+			"general": "null",
+			"upright": "inspiration, ideas, discovery, limitless potential, free spirit, exploration, excitement, freedom",
 			"reversed": "lack of direction, procrastination, creating conflict, self-limiting beliefs, spiritual path, newly formed idea"
-		}, 
-		"astrology": ["Earth"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"Earth"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "2 of Swords", 
+		"name": "2 of Swords",
 		"qualities": {
-			"general": "duality, togetherness, a settling of the energy, union, love, balance", 
-			"upright": "difficult decisions, weighing options, avoidance, deadlock", 
+			"general": "duality, togetherness, a settling of the energy, union, love, balance",
+			"upright": "difficult decisions, weighing options, avoidance, deadlock",
 			"reversed": "lesser of two evils, no right choice, confusion, indecison, information overload"
-		}, 
-		"astrology": ["1st Decan Libra"], 
-		"elements": ["Air"], 
+		},
+		"astrology": [
+			"1st Decan Libra"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "Maybe"
-	}, 
+	},
 	{
-		"name": "The Star", 
+		"name": "The Star",
 		"qualities": {
-			"general": "17, which reduces to 8, is about power and success", 
-			"upright": "hope, calm, faith, purpose, renewal, spirituality, fortune, good omen, rejuvenation", 
+			"general": "17, which reduces to 8, is about power and success",
+			"upright": "hope, calm, faith, purpose, renewal, spirituality, fortune, good omen, rejuvenation",
 			"reversed": "lack of faith, despair, discouragement, insecurity, self-trust, disconnection"
-		}, 
-		"astrology": ["Aquarius"], 
-		"elements": ["Air"], 
+		},
+		"astrology": [
+			"Aquarius"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "10 of Pentacles", 
+		"name": "10 of Pentacles",
 		"qualities": {
-			"general": "ultimate completion, final manifestation, result of true will, recognition, continuation, realisation, endings", 
-			"upright": "wealth, financial security, family, long term success, contribution", 
+			"general": "ultimate completion, final manifestation, result of true will, recognition, continuation, realisation, endings",
+			"upright": "wealth, financial security, family, long term success, contribution",
 			"reversed": "dark side of wealth, financial failure or loss, fleeting success, lack of stability, lack of resources"
-		}, 
-		"astrology": ["3rd Decan Virgo"], 
-		"elements": ["Earth"], 
+		},
+		"astrology": [
+			"3rd Decan Virgo"
+		],
+		"elements": [
+			"Earth"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "7 of Wands", 
+		"name": "Ace of Cups",
 		"qualities": {
-			"general": "regaining or losing control, mastery, choices, responsibility, myth, secrets", 
-			"upright": "challenge, competition, protection, perserverence, defense, maintaining control",
-			"reversed": "exhaustion, giving up, destroyed confidence, overwhelmed, overly protected"
-		}, 
-		"astrology": ["3rd Decan Leo"], 
-		"elements": ["Fire"], 
-		"answer": "No"
-	}, 
-	{
-		"name": "Ace of Cups", 
-		"qualities": {
-			"general": "pioneering, leading, alpha, dominance, ambitious, originality", 
-			"upright": "love, compassion, creativity, new feelings, spirituality, intuition, new baby, proposal, marriage", 
+			"general": "pioneering, leading, alpha, dominance, ambitious, originality",
+			"upright": "love, compassion, creativity, new feelings, spirituality, intuition, new baby, proposal, marriage",
 			"reversed": "emotional loss, blocked creativity, emptiness, self-love, intuition, repressed emotions"
-		}, 
-		"astrology": [], 
-		"elements": ["Water"], 
+		},
+		"astrology": [],
+		"elements": [
+			"Water"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "The High Priestess", 
+		"name": "The High Priestess",
 		"qualities": {
-			"general": "the beginning of the projects and creative endeavors", 
-			"upright": "intuition, sacred knowledge, the subconscious, divine feminine, trust yourself, sensitivity, purity, high morals", 
+			"general": "the beginning of the projects and creative endeavors",
+			"upright": "intuition, sacred knowledge, the subconscious, divine feminine, trust yourself, sensitivity, purity, high morals",
 			"reversed": "secrets, harm, hidden agenda, disconnected from intuition, withdraw, silence, selfish, shallowness, ignorance, misunderstanding"
 		},
-		"astrology": ["Moon"], 
-		"elements": ["Water"], 
+		"astrology": [
+			"Moon"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Maybe"
-	}, 
+	},
 	{
-		"name": "9 of Pentacles", 
+		"name": "9 of Pentacles",
 		"qualities": {
-			"general": "strength, compassion, completion, optimism, suffering", 
-			"upright": "fruits of labor, rewards, luxury, self sufficiency, financial independence", 
+			"general": "strength, compassion, completion, optimism, suffering",
+			"upright": "fruits of labor, rewards, luxury, self sufficiency, financial independence",
 			"reversed": "self worth, hustling, living beyond means, obsession with work, false success"
-		}, 
-		"astrology": ["2nd Decan Virgo"], 
-		"elements": ["Earth"], 
+		},
+		"astrology": [
+			"2nd Decan Virgo"
+		],
+		"elements": [
+			"Earth"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Strength", 
+		"name": "Strength",
 		"qualities": {
 			"general": "power, strength, and control",
 			"upright": "courage, passion, subtle power, persuasion, influence, inner strength, focus, compassion",
 			"reversed": "inner strength, self-doubt, weakness, insecurity, low energy, raw emotion, struggle, pride"
-		}, 
-		"astrology": ["Leo"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"Leo"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "The Chariot", 
+		"name": "The Hierophant",
 		"qualities": {
-			"general": "will-power and control", 
-			"upright": "movement, progress, action, integration, determination, willpower, control, direction, departure, courage", 
-			"reversed": "self-discipline, opposition, lack of direction, lack of control, aggression, arrogance"
-		}, 
-		"astrology": ["Cancer"],
-		"elements": ["Water"], 
-		"answer": "Yes"
-	}, 
-	{
-		"name": "The Hierophant", 
-		"qualities": {
-			"general": "the energy of the unexpected", 
-			"upright": "institutions, tradition, religion, society and its rules, social approval, conformity, forgiveness, bonded, mercy, wisdom, trust", 
+			"general": "the energy of the unexpected",
+			"upright": "institutions, tradition, religion, society and its rules, social approval, conformity, forgiveness, bonded, mercy, wisdom, trust",
 			"reversed": "personal beliefs, freedom, going against the grain, unconventional, foolish, generosity, frailty, unorthodox, hypocrisy, blind faith, misconception"
-		}, 
-		"astrology": ["Taurus"], 
-		"elements": ["Earth"], 
+		},
+		"astrology": [
+			"Taurus"
+		],
+		"elements": [
+			"Earth"
+		],
 		"answer": "Maybe"
-	}, 
+	},
 	{
-		"name": "6 of Cups", 
+		"name": "6 of Cups",
 		"qualities": {
-			"general": "movement, balance, solutions, harmony, healing, empathy", 
-			"upright": "familiarity, happy memories, reminiscing, childhood memories, innocence, joy, nostalgia", 
+			"general": "movement, balance, solutions, harmony, healing, empathy",
+			"upright": "familiarity, happy memories, reminiscing, childhood memories, innocence, joy, nostalgia",
 			"reversed": "living in the past, forgiveness, lacking playfulness, moving forward, leaving home, independence"
-		}, 
-		"astrology": ["2nd Decan Scorpio"], 
-		"elements": ["Water"], 
+		},
+		"astrology": [
+			"2nd Decan Scorpio"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Wheel of Fortune", 
+		"name": "Wheel of Fortune",
 		"qualities": {
-			"general": "a return to the beginning only at a higher level in the spiral of life", 
-			"upright": "good luck, karma, life cycles, destiny, turning point, change, inevitable fate, ups and downs, unpredictable", 
+			"general": "a return to the beginning only at a higher level in the spiral of life",
+			"upright": "good luck, karma, life cycles, destiny, turning point, change, inevitable fate, ups and downs, unpredictable",
 			"reversed": "bad luck, no control, resistance to change, breaking cycles, negative phase"
-		}, 
-		"astrology": ["Juptier"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"Juptier"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "3 of Cups", 
+		"name": "3 of Cups",
 		"qualities": {
-			"general": "triplicity, expression, expansion of the idea, growth, first stages of completion", 
-			"upright": "celebration, friendship, collaboration, creativity, community, happiness", 
+			"general": "triplicity, expression, expansion of the idea, growth, first stages of completion",
+			"upright": "celebration, friendship, collaboration, creativity, community, happiness",
 			"reversed": "overindulgence, heavy partying, isolation, independence, alone time, three's a crowd, gossip"
-		}, 
-		"astrology": ["2nd Decan Cancer"], 
-		"elements": ["Water"], 
+		},
+		"astrology": [
+			"2nd Decan Cancer"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "The Tower", 
+		"name": "The Tower",
 		"qualities": {
 			"general": "16 reduces to 7, which is about change and options",
-			"upright": "sudden change, upheaval, chaos, revelatoin, disaster, awakening, release, sudden insight", 
+			"upright": "sudden change, upheaval, chaos, revelatoin, disaster, awakening, release, sudden insight",
 			"reversed": "personal transformation, fear of change, averting or delayed disaster, suffering, collapse, stormy time, restlessness"
-		}, 
-		"astrology": ["Mars"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"Mars"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "No"
-	}, 
+	},
 	{
-		"name": "King of Swords", 
-		"qualities": { 
-			"general": "null", 
-			"upright": "head over heart, disciplined, truthful, honest, mental clarity, authority", 
-			"reversed": "quiet power, inner truth, callous, weakness, loss of emotional control, manipulation, misuse of power"
-		}, 
-		"astrology": ["3rd Decan Taurus", "2nd Decan Gemini"], 
-		"elements": ["Fire", "Air"], 
-		"answer": "Maybe"
-	}, 
-	{
-		"name": "Page of Swords", 
+		"name": "King of Swords",
 		"qualities": {
-			"general": "null", 
-			"upright": "new ideas, curiosity, thirst for knowledge, new ways of communicating, restless, mental energy", 
-			"reversed": "deception, manipulation, all talk, haste, haphazard action, self expression"
-		}, 
-		"astrology": ["Earth"], 
-		"elements": ["Air"], 
-		"answer": "Yes"
-	}, 
+			"general": "null",
+			"upright": "head over heart, disciplined, truthful, honest, mental clarity, authority",
+			"reversed": "quiet power, inner truth, callous, weakness, loss of emotional control, manipulation, misuse of power"
+		},
+		"astrology": [
+			"3rd Decan Taurus",
+			"2nd Decan Gemini"
+		],
+		"elements": [
+			"Fire",
+			"Air"
+		],
+		"answer": "Maybe"
+	},
 	{
-		"name": "7 of Cups", 
+		"name": "Page of Swords",
+		"qualities": {
+			"general": "null",
+			"upright": "new ideas, curiosity, thirst for knowledge, new ways of communicating, restless, mental energy",
+			"reversed": "deception, manipulation, all talk, haste, haphazard action, self expression"
+		},
+		"astrology": [
+			"Earth"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "7 of Cups",
 		"qualities": {
 			"general": "regaining or losing control, mastery, choices, responsibility, myth, secrets",
-			"upright": "opportunities, wishful thinking, choices, ilusion, searching for purpose, daydreaming", 
+			"upright": "opportunities, wishful thinking, choices, ilusion, searching for purpose, daydreaming",
 			"reversed": "alignment, personal values, overwhelmed by choices, lack of purpose, fantasy, illusion, diversion, confusion"
-		}, 
-		"astrology": ["3rd Decan Scorpio"], 
-		"elements": ["Water"], 
+		},
+		"astrology": [
+			"3rd Decan Scorpio"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Maybe"
-	}, 
+	},
 	{
-		"name": "The World", 
+		"name": "The World",
 		"qualities": {
-			"general": "21 reduces to 3, and 3 is about community, optimism, and joy", 
-			"upright": "completion, accomplishment, wholeness, attainment, fulfillment, travel, celebration of life, arriving", 
+			"general": "21 reduces to 3, and 3 is about community, optimism, and joy",
+			"upright": "completion, accomplishment, wholeness, attainment, fulfillment, travel, celebration of life, arriving",
 			"reversed": "seeking personal closure, short-cuts, delays, no closure, incompletion"
-		}, 
-		"astrology": ["Saturn"], 
-		"elements": ["Earth"], 
+		},
+		"astrology": [
+			"Saturn"
+		],
+		"elements": [
+			"Earth"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "The Hermit", 
+		"name": "The Hermit",
 		"qualities": {
-			"general": "selflessness and integration", 
-			"upright": "soul-searching, introspection, contemplation, wisdom, truth seeking, being alone, independence, inner guidance, meditation, consciousness", 
+			"general": "selflessness and integration",
+			"upright": "soul-searching, introspection, contemplation, wisdom, truth seeking, being alone, independence, inner guidance, meditation, consciousness",
 			"reversed": "isolation, loneliness, withdrawal, resignation, distance, lost your way"
 		},
-		"astrology": ["Virgo"], 
-		"elements": ["Earth"], 
+		"astrology": [
+			"Virgo"
+		],
+		"elements": [
+			"Earth"
+		],
 		"answer": "Maybe"
-	}, 
+	},
 	{
-		"name": "6 of Pentacles", 
+		"name": "6 of Pentacles",
 		"qualities": {
-			"general": "movement, balance, solutions, harmony, healing, empathy", 
+			"general": "movement, balance, solutions, harmony, healing, empathy",
 			"upright": "giving, receiving, sharing wealth, generosity, charity",
 			"reversed": "self care, unpaid debts, one sided charity, strings attached, power and domination"
-		}, 
-		"astrology": ["2nd Decan Taurus"], 
-		"elements": ["Earth"], 
+		},
+		"astrology": [
+			"2nd Decan Taurus"
+		],
+		"elements": [
+			"Earth"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Knight of Swords", 
+		"name": "Knight of Swords",
 		"qualities": {
-			"general": "null", 
+			"general": "null",
 			"upright": "ambitious, action oriented, driven to succeed, fast thinking, defending beliefs",
 			"reversed": "restless, unfocused, burnout, impulsive, no direction, unpredictable, disregard for consequences"
-		}, 
-		"astrology": ["3rd Decan Capricorn", "2nd Decan Aquarius"],
-		"elements": ["Air", "Air"],
+		},
+		"astrology": [
+			"3rd Decan Capricorn",
+			"2nd Decan Aquarius"
+		],
+		"elements": [
+			"Air",
+			"Air"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
-		"name": "Death", 
+		"name": "Death",
 		"qualities": {
-			"general": "13, reduces to 4. The number 4 is about control and organisation", 
-			"upright": "endings, beginnings, change, tranformation, transition, metamorphosis, end of cycle", 
+			"general": "13, reduces to 4. The number 4 is about control and organisation",
+			"upright": "endings, beginnings, change, tranformation, transition, metamorphosis, end of cycle",
 			"reversed": "resistance to change, fearing change, holding on, stagnation, decay, personal transformation"
-		}, 
-		"astrology": ["Scorpio"], 
-		"elements": ["Water"], 
+		},
+		"astrology": [
+			"Scorpio"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "No"
-	}, 
+	},
 	{
-		"name": "9 of Swords", 
+		"name": "9 of Swords",
 		"qualities": {
-			"general": "strength, compassion, completion, optimism, suffering", 
-			"upright": "anxiety, worry, fear, depression, nightmares, insomnia, hopelessness, trauma, despair", 
+			"general": "strength, compassion, completion, optimism, suffering",
+			"upright": "anxiety, worry, fear, depression, nightmares, insomnia, hopelessness, trauma, despair",
 			"reversed": "inner turmoil, deep seated fears, secrets, releasing worry, hope, reaching out"
-		}, 
-		"astrology": ["2nd Decan Gemini"], 
-		"elements": ["Air"], 
+		},
+		"astrology": [
+			"2nd Decan Gemini"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "No"
-	}, 
+	},
 	{
-		"name": "8 of Wands", 
+		"name": "8 of Wands",
 		"qualities": {
-			"general": "manifestation, practicality, skill, absolute decisions, business, the ego", 
-			"upright": "speed, rapid action, movement, swift change, manifesting quickly, quick decisions, air travel", 
+			"general": "manifestation, practicality, skill, absolute decisions, business, the ego",
+			"upright": "speed, rapid action, movement, swift change, manifesting quickly, quick decisions, air travel",
 			"reversed": "delays, frustration, holding off, waiting, panic, slowdown"
-		}, 
-		"astrology": ["1st Decan Sagittarius"], 
-		"elements": ["Fire"], 
+		},
+		"astrology": [
+			"1st Decan Sagittarius"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
-	}, 
+	},
 	{
 		"name": "10 of Swords",
 		"qualities": {
-			"general": "ultimate completion, final manifestation, result of true will, recognition, continuation, realisation, endings", 
-			"upright": "painful endings, deep wounds, betrayal, loss, crisis, failure, collapse, defeat", 
+			"general": "ultimate completion, final manifestation, result of true will, recognition, continuation, realisation, endings",
+			"upright": "painful endings, deep wounds, betrayal, loss, crisis, failure, collapse, defeat",
 			"reversed": "can't get worse, only upward, recovery, regeneration, resisting an inevitable end"
-		}, 
-		"astrology": ["3rd Decan Gemini"], 
-		"elements": ["Air"], 
+		},
+		"astrology": [
+			"3rd Decan Gemini"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "No"
 	},
 	{
@@ -459,9 +578,13 @@
 			"upright": "Heartbreak, suffering, grief, emotional pain, sorrow, hurt, divorce, loss, depression",
 			"reversed": "Negative self talk, releasing pain, forgiveness, optimism, recovery, moving on"
 		},
-		"astrology": ["2nd Decan Libra"],
-		"elements": ["Air"],
-		"answer":"No"
+		"astrology": [
+			"2nd Decan Libra"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "No"
 	},
 	{
 		"name": "King of Pentacles",
@@ -470,8 +593,14 @@
 			"upright": "Hard work, productivivty, routine, conservation, efficiency, responsibility",
 			"reversed": "Self discipline, boredom, feeling stuck, perfectionism, work without reward"
 		},
-		"astrology": ["3rd Decan Aries", "2nd Decan Taurus"],
-		"elements": ["Air", "Earth"],
+		"astrology": [
+			"3rd Decan Aries",
+			"2nd Decan Taurus"
+		],
+		"elements": [
+			"Air",
+			"Earth"
+		],
 		"answer": "Yes"
 	},
 	{
@@ -481,8 +610,12 @@
 			"upright": "Action, creation, manifestation, power, self confidence, clarity, will-power, skill, creativity",
 			"reversed": "Manipulation, poor planning, untapped talents, insecure, lack of confidence, narcissism"
 		},
-		"astrology": ["Mercury"],
-		"elements": ["Air"],
+		"astrology": [
+			"Mercury"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "Maybe"
 	},
 	{
@@ -492,8 +625,12 @@
 			"upright": "Public recognition, victory, progress, self-confidence",
 			"reversed": "Egotism, lack of confidence, lack of recognition, unpopular, discredited, private achievement"
 		},
-		"astrology": ["2nd Decan Leo"],
-		"elements": ["Fire"],
+		"astrology": [
+			"2nd Decan Leo"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
 	},
 	{
@@ -503,8 +640,12 @@
 			"upright": "Unified love, partnership, mutual attraction, proposal, marriage, connection",
 			"reversed": "Self-love, disharmony, distrust, breakups, imbalance, tension, broken communication"
 		},
-		"astrology": ["1st Decan Cancer"],
-		"elements": ["Water"],
+		"astrology": [
+			"1st Decan Cancer"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Yes"
 	},
 	{
@@ -515,7 +656,10 @@
 			"reversed": "Emotional immaturity, insecurity, disappointment, new ideas, creative blocks"
 		},
 		"astrology": [],
-		"elements": ["Water", "Earth"],
+		"elements": [
+			"Water",
+			"Earth"
+		],
 		"answer": "Yes"
 	},
 	{
@@ -525,8 +669,12 @@
 			"upright": "Transition, change, leaving behind, releasing baggage, moving on",
 			"reversed": "Personal transition, resistance to change, unfinished business, emotional baggage"
 		},
-		"astrology": ["2nd Decan Aquarius"],
-		"elements": ["Air"],
+		"astrology": [
+			"2nd Decan Aquarius"
+		],
+		"elements": [
+			"Air"
+		],
 		"answer": "Maybe"
 	},
 	{
@@ -536,8 +684,12 @@
 			"upright": "Wish come true, contnetment, satisfaction, emotional stability, luxury, gratitude",
 			"reversed": "Lack of inner joy, smugness, dissatisfaction, indulgence, materialism, inner happiness"
 		},
-		"astrology": ["2nd Decan Pisces"],
-		"elements": ["Water"],
+		"astrology": [
+			"2nd Decan Pisces"
+		],
+		"elements": [
+			"Water"
+		],
 		"answer": "Yes"
 	},
 	{
@@ -547,15 +699,485 @@
 			"upright": "New beginnings, possibilities, innocence, spontaneous, optimism, trust in life, blind faith, adventure, opportunity, pleasure",
 			"reversed": "Holding back, indecision, hesitation, recklessness, fearlessness, bad choices, risk-taking"
 		},
-		"astrology": ["Uranus"],
-		"elements": ["Air"],
+		"astrology": [
+			"Uranus"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Devil",
+		"qualities": {
+			"general": "15, reduces to 6. The number 6 is about responsibility and harmony",
+			"upright": "Shadow self, attachment, addiction, restriction, sexuality, temptation, seduction, destructive behavior, materialism, co-dependency, toxicity",
+			"reversed": "Releasing limiting beliefs, exploring dark thoughts, detachment, freedom, restoring control, resentment, lack of will"
+		},
+		"astrology": [
+			"Capricorn"
+		],
+		"elements": [
+			"Earth"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "Knight of Wands",
+		"qualities": {
+			"general": "null",
+			"upright": "Energy, passionate, inspired action, adventure, fearless impulsiveness",
+			"reversed": "Paassion project, anger, scattered energy, delays, frustration"
+		},
+		"astrology": [
+			"3rd Decan Cancer",
+			"2nd Decan Leo"
+		],
+		"elements": [
+			"Air",
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "5 of Cups",
+		"qualities": {
+			"general": "Instability, exaggeration, overexertion, strife, changes, freedom, loss",
+			"upright": "Regret, failure, disappointment, pessimism, loss, grief",
+			"reversed": "Acceptance, moving on, finding peace, personal setbacks, self-forgiveness"
+		},
+		"astrology": [
+			"1st Decan Scorpio"
+		],
+		"elements": [
+			"Water"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "4 of Pentacles",
+		"qualities": {
+			"general": "Form, completeness, foundations, progress, power, stability",
+			"upright": "Saving money, security, conservation, scarcity, control, frugality",
+			"reversed": "Greediness, possessiveness, stinginess, overspending, self protection"
+		},
+		"astrology": [
+			"3rd Decan Capricorn"
+		],
+		"elements": [
+			"Earth"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "Temperance",
+		"qualities": {
+			"general": "14, reduces to 5. The number 5 represents change and options",
+			"upright": "Balance, harmony, moderation, patience, being sensible, purpose, finding meaning",
+			"reversed": "Imbalance, excess, extremes, overindulgence, alcoholism/addiction, self-healing, re-alignment"
+		},
+		"astrology": [
+			"Sagittarius"
+		],
+		"elements": [
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "8 of Swords",
+		"qualities": {
+			"general": "manifestation, practicality, skill, absolute decisions, business, the ego",
+			"upright": "Negative thoughts, self imposed restriction, imprisonment, victim mentality, entrapment",
+			"reversed": "Self limiting beliefs, inner critic, releasing negative thoughts, opening to new perspectives, self acceptance, freedom"
+		},
+		"astrology": [
+			"1st Decan Gemini"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "Ace of Wands",
+		"qualities": {
+			"general": "pioneering, leading, alpha, dominance, ambitious, originality",
+			"upright": "New project, inspiration, urge to create, willpower, desire, power, potential beginnings, new opportunities, growth",
+			"reversed": "Delays, lack of motivation, lack of energy, lack of passion, weighted down, boredom"
+		},
+		"astrology": [],
+		"elements": [
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Queen of Swords",
+		"qualities": {
+			"general": "null",
+			"upright": "Unbiased judgment, independent, clear boundaries, direct communication, clear minded, perceptive",
+			"reversed": "Overly emotional, easily influenced, bitchy, cold-hearted, cruel, bitterness"
+		},
+		"astrology": [
+			"3rd Decan Virgo",
+			"2nd Decan Libra"
+		],
+		"elements": [
+			"Water",
+			"Air"
+		],
+		"answer": "Maybe"
+	},
+	{
+		"name": "Queen of Wands",
+		"qualities": {
+			"general": "null",
+			"upright": "Courage, confident, independence, focused, zest for life, determination, joy",
+			"reversed": "Self-respect, self-confident, introverted, selfishness, jealousy, insecurity"
+		},
+		"astrology": [
+			"3rd Decan Pisces",
+			"2nd Decan Aries"
+		],
+		"elements": [
+			"Water",
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "King of Cups",
+		"qualities": {
+			"general": "null",
+			"upright": "Emotionally balanced, compassion, diplomatic, control, balance, supportive leader, tolerance, empathetic",
+			"reversed": "Cold, bad advice, emotional manipulation, moodiness, self compassion, inner feelings"
+		},
+		"astrology": [
+			"3rd Decan Aquarius",
+			"2nd Decan Pisces"
+		],
+		"elements": [
+			"Fire",
+			"Water"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "8 of Cups",
+		"qualities": {
+			"general": "manifestation, practicality, skill, absolute decisions, business, the ego",
+			"upright": "Disappointment, abandonment, withdrawal, escapism, walking away, leaving behind",
+			"reversed": "Trying one more time, indecision, aimless drifting, avoidance, fear of change, fear of loss"
+		},
+		"astrology": [
+			"1st Decan Pisces"
+		],
+		"elements": [
+			"Water"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "8 of Pentacles",
+		"qualities": {
+			"general": "manifestation, practicality, skill, absolute decisions, business, the ego",
+			"upright": "Diligence, passion, high standards, apprenticeship, mastery, skill development, repetitive tasks",
+			"reversed": "Self development, perfectionism, misdirected activity, no passion, uninspired, no motivation"
+		},
+		"astrology": [
+			"1st Decan Virgo"
+		],
+		"elements": [
+			"Earth"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "4 of Cups",
+		"qualities": {
+			"general": "Form, completeness, foundations, progress, power, stability",
+			"upright": "Meditation, contemplation, apathy, reevaluation, disconnected",
+			"reversed": "Sudden awareness, choosing happiness, acceptance, retreat, withdrawal, checking in for realignment"
+		},
+		"astrology": [
+			"3rd Decan Cancer"
+		],
+		"elements": [
+			"Water"
+		],
+		"answer": "Maybe"
+	},
+	{
+		"name": "7 of Pentacles",
+		"qualities": {
+			"general": "Regaining or losing control, mastery, choices, resposibility, myth, secrets",
+			"upright": "Long term view, hard work, perseverance, diligence, sustainable results, investment",
+			"reversed": "Lack of long term vision, limited success or rewards, work without results, distractions"
+		},
+		"astrology": [
+			"3rd Decan Taurus"
+		],
+		"elements": [
+			"Earth"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "5 of Swords",
+		"qualities": {
+			"general": "Instability, exaggeration, overexertion, strife, changes, freedom, loss",
+			"upright": "Conflict, disagreements, competition, defeat, winning at all costs, sneakiness, bullies, theft, abusive relationships",
+			"reversed": "Past resentment, desire to reconcile, making amends, desire to forgive"
+		},
+		"astrology": [
+			"1st Decan Aquarius"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "The Hanged Man",
+		"qualities": {
+			"general": "12 reduces to 3, which is about communication and creativity",
+			"upright": "Pause, surrender, letting go, new perspective, enlightenment, viewing things differently than before, deep insight, sacrifice, change, release",
+			"reversed": "Delays, standstill, resistance, stalling, indecision, fear of sacrifice, lack of control"
+		},
+		"astrology": [
+			"Neptune"
+		],
+		"elements": [
+			"Water"
+		],
+		"answer": "Maybe"
+	},
+	{
+		"name": "Page of Pentacles",
+		"qualities": {
+			"general": "null",
+			"upright": "Manifestation, financial opportunity, skill development, ambition, desire, diligence",
+			"reversed": "Lack of commitment, greediness, laziness, procrastination, learn from failure"
+		},
+		"astrology": [],
+		"elements": [
+			"Earth",
+			"Earth"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Ace of Pentacles",
+		"qualities": {
+			"general": "pioneering, leading, alpha, dominance, ambitious, originality",
+			"upright": "Abundance, manifestation, opportunity, new career or financial opportunity, new venture, prosperity",
+			"reversed": "Lost opportunity, missed chance, bad investment, lack of planning and foresight"
+		},
+		"astrology": [],
+		"elements": [
+			"Earth"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Knight of Pentacles",
+		"qualities": {
+			"general": "null",
+			"upright": "Hard work, productivity, routine, conservation, efficiency, responsibility",
+			"reversed": "Self discipline, boredom, feeling stuck, perfectionism, work without reward"
+		},
+		"astrology": [],
+		"elements": [
+			"Air",
+			"Earth"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "King of Wands",
+		"qualities": {
+			"general": "null",
+			"upright": "Natural leader, visionary, entrepreneur, big picture, overcoming challenges, mature, career focused",
+			"reversed": "Impulsiveness, ruthless, high expectations, haste, unachievable expectations"
+		},
+		"astrology": [
+			"3rd Decan Scorpio",
+			"2nd Decan Sagittarius"
+		],
+		"elements": [
+			"Fire",
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Knight of Cups",
+		"qualities": {
+			"general": "null",
+			"upright": "Creativity, romantic, charm, imagination, beauty, knight in shining armor, following the heart, prince charming, proposals",
+			"reversed": "Moodiness, disappointment, overactive, imagination, jealousy"
+		},
+		"astrology": [
+			"3rd Decan Libra",
+			"2nd Decan Scorpio"
+		],
+		"elements": [
+			"Air",
+			"Water"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Queen of Cups",
+		"qualities": {
+			"general": "null",
+			"upright": "Compassion, comfort, calm, nurturing, healing, emotionally stable, intuitive, caring",
+			"reversed": "Inner feelings, self care, self love, codependency, insecurity"
+		},
+		"astrology": [
+			"3rd Decan Gemini",
+			"2nd Decan Cancer"
+		],
+		"elements": [
+			"Water",
+			"Water"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "10 of Cups",
+		"qualities": {
+			"general": "ultimate completion, final manifestation, result of true will, recognition, continuation, realisation, endings",
+			"upright": "Divine love, harmony, blissful relationships, alignment, inner happiness, fulfillment, dreams come true, family contentment, total love and support",
+			"reversed": "Shattered dreams, broken family, domestic disharmony, disconnection, misaligned values, struggling relationships"
+		},
+		"astrology": [
+			"3rd Decan Pisces"
+		],
+		"elements": [
+			"Water"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "4 of Swords",
+		"qualities": {
+			"general": "Form, completeness, foundations, progress, power, stability",
+			"upright": "Rest, relaxation, meditation, contemplation, recuperation, retreat, renewal, solitude",
+			"reversed": "Exhaustion, burnout, deep contemplation, stagnation, restlessness, stress"
+		},
+		"astrology": [
+			"3rd Decan Libra"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "Maybe"
+	},
+	{
+		"name": "10 of Wands",
+		"qualities": {
+			"general": "ultimate completion, final manifestation, result of true will, recognition, continuation, realisation, endings",
+			"upright": "Burden, extra responsibility, hard work, completion",
+			"reversed": "Doing it all, carrying the burden, delegation, release, overstressed, burnout"
+		},
+		"astrology": [
+			"3rd Decan Sagittarius"
+		],
+		"elements": [
+			"Fire"
+		],
+		"answer": "No"
+	},
+	{
+		"name": "9 of Wands",
+		"qualities": {
+			"general": "strength, compassion, completion, optimism, suffering",
+			"upright": "Courage, persistence, test of faith, resilience, boundaries, last stand, gearing up for worst, pessimism, weary",
+			"reversed": "Inner resources, struggle, overwhelmed, on edge, defensive, paranoia, exhaustion, fatigue, lack of motivation"
+		},
+		"astrology": [
+			"2nd Decan Sagittarius"
+		],
+		"elements": [
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "4 of Wands",
+		"qualities": {
+			"general": "Form, completeness, foundations, progress, power, stability",
+			"upright": "Celebration, joy, harmony, marriage, home, community, homecomming",
+			"reversed": "Personal celebration, inner harmony, conflict with others, lack of support, breackdown in communnication, home conflict, transition, transience"
+		},
+		"astrology": [
+			"3rd Decan Aries"
+		],
+		"elements": [
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Lovers",
+		"qualities": {
+			"general": "Balance, home, and responsibility",
+			"upright": "Love, harmony, relationships, union, partnerships, sexuality, passion, values, alignment, deep love, a choice, the strength of two together",
+			"reversed": "Self-love, disharmony, imbalance, misalignment of values, suffering, detachment, obedience, conflict, bad choices, indecision, fear of commitment"
+		},
+		"astrology": [
+			"Gemini"
+		],
+		"elements": [
+			"Air"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Empress",
+		"qualities": {
+			"general": "Excellent communication and creativity, someone who is generally optimistic",
+			"upright": "Abundance, nurturing, fertility, feminine, good parenting, development, accomplishment, growth, evolution, action",
+			"reversed": "Creative block, selfish, impatient, dependent on others, inaction, lack of concentration, indecisive, overwhelmed, anxiety, infidelity"
+		},
+		"astrology": [
+			"Venus"
+		],
+		"elements": [
+			"Earth"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Sun",
+		"qualities": {
+			"general": "19, which reduces to 1, the number for new beginnings and success",
+			"upright": "Positivity, pleasure, happiness, vitality, fun, joy, warmth, celebration, success, rebirth, all is well",
+			"reversed": "Inner child, feeling down, overly optimistic, negativity, depression, sadness, carelessness, arrogance"
+		},
+		"astrology": [
+			"Sun"
+		],
+		"elements": [
+			"Fire"
+		],
+		"answer": "Yes"
+	},
+	{
+		"name": "Judgement",
+		"qualities": {
+			"general": "20 redcues to 2, and 2 is about balancing polarities",
+			"upright": "Judgement, rebirth, inner calling, a new phase, absolution, reckoning, awakening, redemption, forgiveness, mercy",
+			"reversed": "Self-doubt, lack of self awareness, inner critic, self loathing, punishment, destruction, ignoring the call"
+		},
+		"astrology": [
+			"Pluto"
+		],
+		"elements": [
+			"Fire"
+		],
 		"answer": "Yes"
 	}
-
-
-
-
-
-
-
 ]
