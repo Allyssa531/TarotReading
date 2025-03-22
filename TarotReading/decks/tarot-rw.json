@@ -64,23 +64,6 @@
 		"answer":"No"
 	},
 	{
-		"name": "7 of Swords",
-		"qualities": {
-			"general": "description on the long side of card (`null` if not there)",
-			"upright": "upright qualities",
-			"reversed": "reversed qualities"
-		},
-		"astrology": [
-			"2rd Decan Pisces",
-			"3rd Decon Aries",
-			"Sun",
-			"Juptier",
-			"List whatever the card lists, may be one or more things, always make this a list tho"
-		],
-		"elements": ["Air", "Air"],
-		"answer": "Yes/No/Maybe"
-	},
-	{
 		"name": "2 of Pentacles",
 		"qualities": {
 			"general": "duality, togetherness, a settling of the energy, union, love, balance",
@@ -468,6 +451,105 @@
 		"astrology": ["3rd Decan Gemini"], 
 		"elements": ["Air"], 
 		"answer": "No"
+	},
+	{
+		"name": "3 of Swords",
+		"qualities": {
+			"general": "Triplicity, expression, expansion of the idea, growth, first stages",
+			"upright": "Heartbreak, suffering, grief, emotional pain, sorrow, hurt, divorce, loss, depression",
+			"reversed": "Negative self talk, releasing pain, forgiveness, optimism, recovery, moving on"
+		},
+		"astrology": ["2nd Decan Libra"],
+		"elements": ["Air"],
+		"answer":"No"
+	},
+	{
+		"name": "King of Pentacles",
+		"qualities": {
+			"general": "null",
+			"upright": "Hard work, productivivty, routine, conservation, efficiency, responsibility",
+			"reversed": "Self discipline, boredom, feeling stuck, perfectionism, work without reward"
+		},
+		"astrology": ["3rd Decan Aries", "2nd Decan Taurus"],
+		"elements": ["Air", "Earth"],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Magician",
+		"qualities": {
+			"general": "the beginning of the projects and creative endeavors",
+			"upright": "Action, creation, manifestation, power, self confidence, clarity, will-power, skill, creativity",
+			"reversed": "Manipulation, poor planning, untapped talents, insecure, lack of confidence, narcissism"
+		},
+		"astrology": ["Mercury"],
+		"elements": ["Air"],
+		"answer": "Maybe"
+	},
+	{
+		"name": "6 of Wands",
+		"qualities": {
+			"general": "movement, balance, solutions, harmony, healing, empathy",
+			"upright": "Public recognition, victory, progress, self-confidence",
+			"reversed": "Egotism, lack of confidence, lack of recognition, unpopular, discredited, private achievement"
+		},
+		"astrology": ["2nd Decan Leo"],
+		"elements": ["Fire"],
+		"answer": "Yes"
+	},
+	{
+		"name": "2 of Cups",
+		"qualities": {
+			"general": "duality, togetherness, a settling of the energy, union, love, balance",
+			"upright": "Unified love, partnership, mutual attraction, proposal, marriage, connection",
+			"reversed": "Self-love, disharmony, distrust, breakups, imbalance, tension, broken communication"
+		},
+		"astrology": ["1st Decan Cancer"],
+		"elements": ["Water"],
+		"answer": "Yes"
+	},
+	{
+		"name": "Page of Cups",
+		"qualities": {
+			"general": "null",
+			"upright": "Creative opportunities, intuitive messages, curiosity, possibility, happy surprise, dreamer, sensitivity, new love",
+			"reversed": "Emotional immaturity, insecurity, disappointment, new ideas, creative blocks"
+		},
+		"astrology": [],
+		"elements": ["Water", "Earth"],
+		"answer": "Yes"
+	},
+	{
+		"name": "6 of Swords",
+		"qualities": {
+			"general": "movement, balance, solutions, harmony, healing, empathy",
+			"upright": "Transition, change, leaving behind, releasing baggage, moving on",
+			"reversed": "Personal transition, resistance to change, unfinished business, emotional baggage"
+		},
+		"astrology": ["2nd Decan Aquarius"],
+		"elements": ["Air"],
+		"answer": "Maybe"
+	},
+	{
+		"name": "9 of Cups",
+		"qualities": {
+			"general": "strength, compassion, completion, optimism, suffering",
+			"upright": "Wish come true, contnetment, satisfaction, emotional stability, luxury, gratitude",
+			"reversed": "Lack of inner joy, smugness, dissatisfaction, indulgence, materialism, inner happiness"
+		},
+		"astrology": ["2nd Decan Pisces"],
+		"elements": ["Water"],
+		"answer": "Yes"
+	},
+	{
+		"name": "The Fool",
+		"qualities": {
+			"general": "Unlimited possibiliies",
+			"upright": "New beginnings, possibilities, innocence, spontaneous, optimism, trust in life, blind faith, adventure, opportunity, pleasure",
+			"reversed": "Holding back, indecision, hesitation, recklessness, fearlessness, bad choices, risk-taking"
+		},
+		"astrology": ["Uranus"],
+		"elements": ["Air"],
+		"answer": "Yes"
 	}
 
 
