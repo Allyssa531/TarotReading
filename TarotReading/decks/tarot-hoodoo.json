@@ -4,15 +4,25 @@
 	{
 		"name": "Name",
 		"rw-name": "RW Name",
-		"verse": "",
+		"major": false,
 		"plant": "",
 
 		"qualities": {
 			"positive": "",
-			"negative": "",
+			"negative": ""
+		}
+	},
+	{
+		"rw-name": "RW Name",
+		"major": true,
+		"plant": "",
+		"verse": "",
+
+		"qualities": {
 			"consideration": ""
 		}
 	}
+
 
 
 ]
