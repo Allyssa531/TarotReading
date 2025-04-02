@@ -596,6 +596,216 @@
 			"positive": "perceptive, analytical, forthright, witty, independent, resilient, highly intelligent, deep, and sets clear boundaries",
 			"negative": "perfectionist, cold-hearted, aggressive, and bitchy"
 		}
+	}, 
+	{
+		"name": "Dr. Buzzard", 
+		"rw-name": "Justice", 
+		"major": true, 
+		"plant": "Galangal Root", 
+		"verse": "And I will execute great vengenance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengenance upon them. - Ezekial 25:17", 
+		"qualities": {
+			"consideration": [
+				"What would be a fair way to resolve this conflict?", 
+				"Did you do something wrong? If no, don’t worry about it. If yes, you’re about topay the price.", 
+				"Did someone do something wrong to you? If no, don’t worry about it. If yes, then they’ve set the wheel of justice in motion against themselves.", 
+				"Have you taken responsibility for all of the choices you’ve made?",
+				"If something is forgivable, then forgive. If not, now what?",
+				"If revenge is taken for an offense, will you regret that you did it once you’ve calmed down? If so, then chill out and move on."
+			]
+		}
+	}, 
+	{
+		"name": "Son of Coins", 
+		"rw-name": "Knight of Pentacles",
+		"major": false, 
+		"plant": "Honeysuckle", 
+		"qualities": {
+			"positive": "grounded, stylish, sets clear and realistic goals, has faith in himself, values education, and is at home in the body and a comfort to others", 
+			"negative": "easily overwhelmed, debt-prone, unfocused, obsessive compulsive, a buzzkill, a chronic day-dreamer, entertains poverty consciousness, or feels guilty about having money, being comfortable, and being privileged"
+		} 
+	}, 
+	{
+		"name": "8 of Sticks", 
+		"rw-name": "8 of Wands", 
+		"major": false, 
+		"plant": "Poplar", 
+		"qualities": {
+			"positive": "rapid progress, forward movement, communication, finding a resolution, excitement, whirlwind romances, gaining momentum, receiving a critical message, eye-opening experiences, being in alignment, ending of delays, travel by air, and successful journeys.", 
+			"negative": "a serious emergency, wasted energy, being too pushy, reckless behavior, transportation faltering, leaping before looking, unexpected break-ups, extreme frustration, high pressure situations, hasty decisions, ideas that are way out there, hysteria, and failure to recognize signs and warnings."
+		}
+	}, 
+	{
+		"name": "8 of Knives", 
+		"rw-name": "8 of Swords", 
+		"major": false, 
+		"plant": "Star Anise", 
+		"qualities": {
+			"positive": "believing in yourself again, empowered thinking, the removal of obstacles, escape from bondage, acquittal, being productive, a much-needed release, ceasing to be your own worst enemy, liberating oneself from a victim mentality, renewed hope, and finding a way out of a predicament.", 
+			"negative": "Feeling oppressed, self-hate, feeling unable to move, problems communicating with others, being bound by circumstances, feeling like others are putting you in a box, fear of the unknown, self-limiting beliefs, suppressed history, holding yourself back, people with a negative vibe, and masochists."
+		}
+	}, 
+	{
+		"name": "Daughter of Baskets", 
+		"rw-name": "Paige of Cups", 
+		"major": false, 
+		"plant": "Baneberry", 
+		"qualities": {
+			"positive": "charming, imaginative, creative, loyal, and has great communication skills.", 
+			"negative": "delusional, jealous, a pathological liar, a con artist, or suppresses her feelings."
+		}
+	}, 
+	{
+		"name": "6 of Coins", 
+		"rw-name": "6 of Pentacles", 
+		"major": false, 
+		"plant": "Four-leaf clover", 
+		"qualities": {
+			"positive": "charitable giving, generosity, debt repayment, loans, grants, scholarships, philanthropy, financial aid, fairness, receiving money owed, earning extra money, equality, mentoring, helping others, sugar daddies/mamas, and those that care about the community.", 
+			"negative": "getting cut off financially, being left without proper guidance, extortion, users, gigolos, gold diggers, pimps, gifts with strings attached, blackmail, con artists, Trojan horses, and show-offs."
+		}
+	}, 
+	{
+		"name": "5 of Coins", 
+		"rw-name": "5 of Pentacles", 
+		"major": false, 
+		"plant": "Nettle", 
+		"qualities": {
+			"positive": "hard times coming to an end, a new job after prolonged unemployment, renewed faith, recovery from financial ruin, improved luck, feeling welcome, rehabilitation, debt repayment, and a light at the end of the tunnel.", 
+			"negative": "unemployment, homelessness, recessions, worry, failure to seek spiritual guidance, adversity, misery, despair, disgrace, misfortune, loss, disappointment, miserable luck, being down-and-out, isolation, lack of faith, and ill health."
+		}
+	}, 
+	{
+		"name": "Son of Knives", 
+		"rw-name": "Knight of Swords", 
+		"major": false, 
+		"plant": "Ragweed", 
+		"qualities": {
+			"positive": "innovative, gung ho, energetic, vigilant, clever, and persuasive.", 
+			"negative": "pushy, aggressive, two-faced, a gossip, a hustler, and likes to take unnecessary risks and spread rumors and drama"
+		}
+	}, 
+	{
+		"name": "Courting", 
+		"rw-name": "The Lovers", 
+		"major": true, 
+		"verse": "For there are three that testify: the Spirit and the water and the blood; and these three agree. - 1 John 5:7-8",
+		"plant": "Squash Plant Leaves", 
+		"qualities": {
+			"consideration": ["What binds you to her, him, this, or that? Is that healthy?",
+			"Is that how you really feel, or are you parroting someone else?",
+			"Make up your mind!",
+			"What is your philosophy of life, and how does that inform this relationship?",
+			"What if you commit fully to this?",
+			"Is the passion/love/desire reciprocal?",
+			"Cute doesn’t last. Are your morals, values, and goals aligned?",
+			"Are you both on the same page, or do you have entirely different books?",
+			"The moral to the story is . . ."
+			]
+		}
+	}, 
+	{
+		"name": "Daughter of Knives", 
+		"rw-name": "Paige of Swords", 
+		"major": false, 
+		"plant": "Yarrow", 
+		"qualities": {
+			"positive": " logical, quick-witted, action-oriented, wellinformed, direct, philosophical, and always up for a challenge.",
+			"negative": "sarcastic, condescending, rude, impatient, domineering, insensitive, acidic, and pedantic."
+		}
+	}, 
+	{
+		"name": "9 of Sticks", 
+		"rw-name": "9 of Wands", 
+		"major": false, 
+		"plant": "Pepper", 
+		"qualities": {
+			"positive": "defending yourself, a test of faith, perseverance, being prepared, a fight to the death, will power, resilience, guarding your boundaries, and an attitude of “would rather do than die.”", 
+			"negative": "a defeatist attitude, paranoia, refusing to compromise, having no backbone, and getting hurt as a result of trusting the wrong people."
+		}
+	}, 
+	{
+		"name": "8 of Baskets", 
+		"rw-name": "8 of Cups", 
+		major: false, 
+		"plant": "Cactus", 
+		"qualities": {
+			"positive": "becoming independent, moving on, leaving the past behind, trying to find oneself, retreat, relocating, abandoning all that you have outgrown, and seekers of truth.", 
+			"negative": "Fear of the unknown, unhealthy attachments, making changes you will regret later, fear of commitment, a flat leaver, fair weather friends, abandoning responsibilities, and aimless wandering"
+		}
+	}, 
+	{
+		"name": "10 of Sticks", 
+		"rw-name": "10 of Wands", 
+		"major": false, 
+		"plant": "Bay Starvine", 
+		"qualities": {
+			"positive": "loads being lifted, knowing when to ask for help, learning to delegate responsibilities, focusing more on self-care, taking a day off.", 
+			"negative": "stress, feeling burdened, overworking, reaching the breaking point, having too many responsibilities, inability to say no, swimming against the tide, cruel supervisors, hard times, struggling to make ends meet, a martyr’s complex, workaholism, crushing debt, exploitive labor, a life filled with nothing but obligations, and people that always puts other’s feelings before their own."
+		}
+	}, 
+	{
+		"name": "Big Mama", 
+		"rw-name": "The Sun", 
+		"major": true, 
+		"verse": "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well. - 2 Timothy 1:5", 
+		"plant": "Sunflower", 
+		"qualities": {
+			"consideration": ["Do you fear being brilliant or successful?",
+			"What is being highlighted?",
+			"It’s okay to be the center of attention sometimes.",
+			"What does enlightenment mean to you?",
+			"Take a personal day from work.",
+			"Who are the important players in the situation?",
+			"Am I exhibiting a positive attitude?",
+			"Reputations matter.",
+			"It’s time to celebrate.",
+			"Confidence is the best cosmetic.",
+			"What do you need to do to look and feel your best?"
+		]
+		}
+	}
+	{
+		"name": "9 of Baskets", 
+		"rw-name": "9 of Cups", 
+		"major": false, 
+		"plant": "Marigold", 
+		"qualities": {
+			"positive": "dreams fulfilled, plenty, art appreciation, wishes that come true, sensuality, rewards, hitting the jackpot, happiness, pampering, the finer things in life, financial security, prosperity, attaining your heart’s desire, gratitude, and “making it.”",
+			"negative": "materialistic people, greed, lack, people that are never satisfied, gluttony, spoiled brats, feeling unfulfilled, narcissists, smugness, overindulgence, shattered dreams, shallowness, and hedonism."
+		}
+	}, 
+	{
+		"name": "5 of Sticks", 
+		"rw-name": "5 of Wands", 
+		"major": false, 
+		"plant": "Edelweiss", 
+		"qualities": {
+			"positive": "healthy competition, diversity, assertiveness, having faith that you can win, arguments that reveal the truth, martial arts, finding common ground, a battle of wits, debate club, relief from tension, and breaking the ice.", 
+			"negative": "unnecessary drama, haters, trolls, failing to stand up for oneself, lack of competition, minor annoyances, embarrassing or uncomfortable situations, the devil in the details, grudges, being easily intimidated, and pretending things are okay when they’re not."
+		}
+	}, 
+	{
+		"name": "Miss Robinson", 
+		"rw-name": "The Devil", 
+		"major": true, 
+		"verse": "Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters. - Genesis 1:2",
+		"plant": ["Belladonna", "Hemlock"], 
+		"qualities": {
+			"consideration": ["Am I feeling trapped? By whom or what?",
+			"Everyone that says they have good intentions, don’t mean it.",
+			"Evil is a point of view.",
+			"What did I really invite into my life when I said/did that?",
+			"Don’t let your mouth write a check your ass can’t cash.",
+			"An apology may be necessary.",
+			"Maybe I have a problem?",
+			"Am I ready, willing, and able to do jail time if I get caught?",
+			"Things may not be as good as they seem to be.",
+			"He or she may be cheating on you.",
+			"Am I purposely choosing to remain ignorant because I don’t want to face the truth?",
+			"Perhaps no one likes to talk to me because I’m often negative/depressing/expressing doubt.",
+			"Why don’t I believe in myself?",
+			"Why do I expect the worst possible outcome?"]
+	}
 	}
 	
 
