@@ -726,7 +726,7 @@
 	{
 		"name": "8 of Baskets", 
 		"rw-name": "8 of Cups", 
-		major: false, 
+		"major": false, 
 		"plant": "Cactus", 
 		"qualities": {
 			"positive": "becoming independent, moving on, leaving the past behind, trying to find oneself, retreat, relocating, abandoning all that you have outgrown, and seekers of truth.", 
@@ -763,7 +763,7 @@
 			"What do you need to do to look and feel your best?"
 		]
 		}
-	}
+	},
 	{
 		"name": "9 of Baskets", 
 		"rw-name": "9 of Cups", 
@@ -1059,6 +1059,52 @@
 		"qualities": {
 			"positive": "improved finances, travel, exploration, becoming a leader, seeing the big picture, embarking on a quest, expansion, feeling free and uninhibited, visionary, power moves, reaping the reward for hard work, and receiving potentially game-changing advice.", 
 			"negative": "nothing working out as planned, unforeseen obstacles, hidden adversaries, obsession with past failures, short-term thinking, making the wrong moves, lack of real effort, not being taken seriously, and lack of imagination and foresight."
+		}
+	}, 
+	{
+		"name": "The Free Man", 
+		"rw-name": "The Fool", 
+		"major": true, 
+		"verse": "And you will know the truth, and the truth will set you free. - John 8:32", 
+		"plant": "Jimsonweed", 
+		"qualities": {
+			"consideration": [
+				"What is the best thing that could happen if things go your way? What is the worst thing that could happen if they don’t? Can you live without ever knowing?", 
+				"Have you received an opportunity that you’ve fantasied about, but are afraid to take?",
+				"Where are you headed?",
+				"Are you really that deep? Are you really a free spirit? Or are you just a jerk, or a rebel without a cause?",
+				"Have you considered the financial or emotional cost of attaining that goal?", 
+				"It doesn’t matter if you like surprises or not. They’re on their way.",
+				"Are you really as innocent as you profess to be?",
+				"Has lingering self-doubt caused your boredom and dissatisfaction?",
+				"The new guy/gal/situation isn’t who or what they appear to be.",
+				"Maybe you need to loosen up?",
+				"Let’s go crazy! Let’s get nuts!",
+				"Are you living in the present?",
+				"Follow your bliss."
+			]
+		}
+	}, 
+	{
+		"name": "The Big House", 
+		"rw-name": "The Tower", 
+		"verse": "But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he sha;; stretch out upon it the line of confusion, and the stones of emptiness. - Isaiah 34:11", 
+		"major": true, 
+		"plant": "Oak", 
+		"qualities": {
+			"consideration": [
+				"Your plans may be disrupted in a way you can’t imagine.",
+				"Is this a breakdown or a breakthrough?",
+				"In what way does this change hurt your ego?",
+				"Things may actually turn out better in the end.",
+				"What or who do you need to help you through this difficult time?",
+				"There is a danger of going completely off the rails. Mind your temper.",
+				"And just like that, it’s over. Pick up the pieces and let it go.",
+				"How could this experience inspire you to new heights?",
+				"Why do you think that idea just came out of the blue?",
+				"Perhaps it’s not such a big surprise at all; you just weren’t ready to see it.",
+				"The truth hurts."
+			]
 		}
 	}
 	
