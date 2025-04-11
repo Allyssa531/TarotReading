@@ -13,7 +13,7 @@
 		"name": "Father of Baskets",
 		"rw-name": "King of Cups",
 		"major": false,
-		"plant": "Violet",
+		"plant": ["Violet"],
 		"qualities": {
 			"positive": "kind, generous, diplomatic, tolerant, reliable, resourceful, honest, and wise",
 			"negative": "emotionally manipulative, moody, self-destructive, and deceptive"
@@ -24,7 +24,7 @@
 		"rw-name": "The Moon",
 		"major": true,
 		"verse": "And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon. - Deuteronomy 33:14",
-		"plant": "Moonflower",
+		"plant": ["Moonflower"],
 		"qualities": {
 			"consideration": [
 				"You might be being decieved by someone.",
@@ -49,7 +49,7 @@
 		"name": "Son of Baskets",
 		"rw-name": "Knight of Cups",
 		"major": false,
-		"plant": "Maypop",
+		"plant": ["Maypop"],
 		"qualities": {
 			"positive": "artistic, deep, inquisitive, unafraid of intimacy or commitment, and has the ability to see the big picture with a great sense of humor.",
 			"negative": "immature, unproductive, undiscerning, avoids responsibility, and is completely detached from reality, a loafer, or just plain dumb"
@@ -59,7 +59,7 @@
 		"name": "Father of Knives",
 		"rw-name": "King of Swords",
 		"major": false,
-		"plant": "Slippery Elm",
+		"plant": ["Slippery Elm"],
 		"qualities": {
 			"positive": "assertive, intellectual, ethical, analytical, mature, and a just leader",
 			"negative": "cruel, opinionated, vicious, abusive, stoic, tyrannical, and stubborn"
@@ -100,7 +100,7 @@
 		"rw-name": "The Chariot",
 		"major": true,
 		"verse": "With God we shall do valiantly; it is he who will tread down our foes. - Psalm 108:13",
-		"plant": "Maca",
+		"plant": ["Maca"],
 		"qualities": {
 			"consideration": [
 				"If you don't plan to win the game, then why are you playing?",
@@ -125,7 +125,7 @@
 		"name": "3 of Knives",
 		"rw-name": "3 of Swords",
 		"major": false,
-		"plant": "Eucalyptus",
+		"plant": ["Eucalyptus"],
 		"qualities": {
 			"positive": "pain subsiding, resurrection, people that are determined to survive, renewed optimism, reconciliation, seeking help for emotional problems, learning how to cope, accepting an apology only when you're ready, improved health, overcoming depression, healing, and the worst being over.",
 			"negative": "heartbreak, emotional trauma, betrayal, rejection, devastating loss, alienation, serious disrespect, neuroses, grieving, painful endings, loneliness, sickness, negative self-talk, exile, goodbyes, bad break-ups, awful news, and unwelcome change."
@@ -135,7 +135,7 @@
 		"name": "7 of Coins",
 		"rw-name": "7 of Pentacles",
 		"major": false,
-		"plant": "Hobblebush",
+		"plant": ["Hobblebush"],
 		"qualities": {
 			"positive": "return on investments, slow and steady progress, assessments, waiting for results, long-term thinking, making assessments, considering the possibilities, finishing what you've started, and reflecting on the choices you've made.",
 			"negative": "feeling like your time has been wasted, fruitless endeavors, increased work load for the same pay, demoralization, workaholics, giving up prematurely, dead-end jobs, bills piling up, short-term thinking, reaping what you have sown, setbacks, and wasted energy."
@@ -146,7 +146,7 @@
 		"rw-name": "The Magician",
 		"major": true,
 		"verse": "Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move. Nothing will be impossible for you. - Matthew 17:20",
-		"plant": "Snakeroot",
+		"plant": ["Snakeroot"],
 		"qualities": {
 			"consideration": [
 				"If you fail to plan, then you plan to fail.",
@@ -165,7 +165,7 @@
 		"rw-name": "The Emperor",
 		"major": true,
 		"verse": "Where there is no guidance, a people falls, but in an abundance of counselors there is safety. - Proverbs 11:14",
-		"plant": "Cypress",
+		"plant": ["Cypress"],
 		"qualities": {
 			"consideration": [
 				"Effective leadership requires wise counsel and up-to-date information.",
@@ -189,7 +189,7 @@
 		"name": "2 of Coins",
 		"rw-name": "2 of Pentacles",
 		"major": false,
-		"plant": "Seaweed",
+		"plant": ["Seaweed"],
 		"qualities": {
 			"positive": "a well-balanced life, having your priorities in the right order, splitting responsibilities, reliable partnerships, multitasking, and adaptability.",
 			"negative": "failure to prioritize, disorganization, living paycheck-to-paycheck, carrying someone else's weight, too many irons in the fire, credit card debt, and inflexible people."
@@ -199,7 +199,7 @@
 		"name": "6 of Baskets",
 		"rw-name": "6 of Cups",
 		"major": false,
-		"plant": "Sugarcane",
+		"plant": ["Sugarcane"],
 		"qualities": {
 			"positive": "rekindling an old flame, getting back together, a clear conscience, restored harmony, indulging in play, reflecting on the good old days, growing up, happy childhood memories, and people that have made their peace with the past.",
 			"negative": "unhealthy obsession with the past, homesickness, feeling you don't belong in this century, skeletons in the closet coming tumbling out, clinging to outdated beliefs, utter disgust with the new generation, childhood abuse, believing the best of everything already occurred, and stuffy joyless people."
@@ -209,7 +209,7 @@
 		"name": "5 of Knives",
 		"rw-name": "5 of Swords",
 		"major": false,
-		"plant": "Corn Silk",
+		"plant": ["Corn Silk"],
 		"qualities": {
 			"positive": "making amends, conflict resolved, vindication, overcoming challenges, vengeance, righteous fury, treachery exposed, being prepared for battle, the end of attacks, fighting back, confronting evil, and compromise.",
 			"negative": "manipulation, revenge, betrayal, exploitation, oneupmanship, losing face, defeat, intrigue, rudeness, deceit, troublemakers, conflict, surrender, letting the ends justify the means, illegal gains, liars, humiliation, self-sabotage, negative energy, degradation, malicious rumors, haters, possessiveness, hidden enemies, hurt feelings, intimidation, frenemies, and ignoring warnings."
@@ -219,7 +219,7 @@
 		"name": "Ace of Sticks",
 		"rw-name": "Ace of Wands",
 		"major": false,
-		"plant": "Basil",
+		"plant": ["Basil"],
 		"qualities": {
 			"positive": "new opportunities, optimism, self-expression, passion, virility, facing your fears, taking the bull by the horns, conception, self-confidence, travel, good news, being inspired, creative juices flowing, recognizing potential, courage, growth, and the use the force.",
 			"negative": "impotence, lack of direction, underemployment, distractions, anxieties, missed opportunities, self-doubt, low libido, unprotected sex, delays, boredom, and creative blocks."
@@ -230,7 +230,7 @@
 		"rw-name": "Temperance",
 		"major": true,
 		"verse": "Who gives the ibis wisdom or gives the rooster understanding? - Job 38:36",
-		"plant": "Peavine",
+		"plant": ["Peavine"],
 		"qualities": {
 			"consideration": [
 				"What would be gained by compromising? Is it worth more than the perceived loss?",
@@ -250,7 +250,7 @@
 		"name": "Father of Coins",
 		"rw-name": "King of Pentacles",
 		"major": false,
-		"plant": "Sesame",
+		"plant": ["Sesame"],
 		"qualities": {
 			"positive": "efficient leader, responsible, disciplined, reliable, enterprising, lucky, and focused on abundance",
 			"negative": "classist, a show off, a braggart, makes bad investments, has gambling problems, will resort to questionable or illegal activity to \"make it,\" or is susceptible to get-rich-quick schemes"
@@ -270,7 +270,7 @@
 		"name": "Father of Sticks",
 		"rw-name": "King of Wands",
 		"major": false,
-		"plant": "Rye",
+		"plant": ["Rye"],
 		"qualities": {
 			"positive": "visionary, adventurous, goal-oriented, wise, and trustworthy, with a \"can-do\" attitude and natural-born leadership",
 			"negative": "he is cowardly, incompetent, immature, impotent, and reckless"
@@ -280,7 +280,7 @@
 		"name": "3 of Baskets",
 		"rw-name": "3 of Cups",
 		"major": false,
-		"plant": "Sweetgrass",
+		"plant": ["Sweetgrass"],
 		"qualities": {
 			"positive": "parties, reunion, good fortune, hobbies, plenty, renewed health, collaborations, spending time with friends, and team players",
 			"negative": "overindulgence, addicts, the party's over, homebodies, promiscuity, ill health, alcoholism, cheaters, lack of friends, and agoraphobes"
@@ -303,7 +303,7 @@
 		"name": "Mother of Sticks",
 		"rw-name": "Queen of Wands",
 		"major": false,
-		"plant": "Tobacco",
+		"plant": ["Tobacco"],
 		"qualities": {
 			"positive": "optimistic, fiery, confident, courageous, focused, and powerful",
 			"negative": "malicious, over-bearing, arrogant, two-faced, a workaholic, or a major drama queen"
@@ -313,7 +313,7 @@
 		"name": "Son of Sticks",
 		"rw-name": "Knight of Wands",
 		"major": false,
-		"plant": "Burdock",
+		"plant": ["Burdock"],
 		"qualities": {
 			"positive": "loyal, idealistic, creative, enthusiastic, solution-based, fearless, independent, and loves to learn",
 			"negative": "unreliable, pushy, indecisive, confused, selfish, lazy, or a real downer that always prefers to discuss and emphasize anything unpleasant"
@@ -323,7 +323,7 @@
 		"name": "4 of Baskets",
 		"rw-name": "4 of Cups",
 		"major": false,
-		"plant": "Bay",
+		"plant": ["Bay"],
 		"qualities": {
 			"positive": " revitalization, meditation, introspection, and the end of stagnation",
 			"negative": "boredom, withdrawal, fatigue, dissatisfaction, apathy, lack of motivation, cataloging regrets, feeling misunderstood, reclusiveness, frustration, rejecting assistance, yearning, time for reassessment, pity parties, depression, cynicism, and self-absorbed individuals"
@@ -333,7 +333,7 @@
 		"name": "2 of Sticks",
 		"rw-name": "2 of Wands",
 		"major": false,
-		"plant": "Comfrey",
+		"plant": ["Comfrey"],
 		"qualities": {
 			"positive": "partnerships, planning for the future, speaking your mind, progress, new inventions, ambition, being unafraid to go against the grain, deciding to travel or move over-seas, and the power to persuade and influence people",
 			"negative": "cancelled plans, prolonged waiting, deportation, feeling stuck in a rut, feeling tortured by a sense of mediocrity, fear of change, and suddenly being removed or replaced"
@@ -343,7 +343,7 @@
 		"name": "6 of Knives",
 		"rw-name": "6 of Swords",
 		"major": false,
-		"plant": "Goatsrue",
+		"plant": ["Goatsrue"],
 		"qualities": {
 			"positive": "victory, getting promoted, overcoming hardship, receiving compliments, great news, recognition, having high self-esteem, becoming a VIP, feeling encouraged, being sought out for your expertise, and being a recognized hero",
 			"negative": "flatterers, frenemies, being pompous, condescending comments, a fall from grace, loss of respect, excessive pride, groupies, needing constant validation from others, humiliating defeat, people that are desperate for attention, and epic fails"
@@ -366,7 +366,7 @@
 		"name": "Miss Ida",
 		"rw-name": "The High Priestess",
 		"major": true,
-		"plant": "Jersey Tea",
+		"plant": ["Jersey Tea"],
 		"verse": "Be still and know that I am God. - Psalm 46:10",
 		"qualities": {
 			"consideration": [
@@ -385,7 +385,7 @@
 		"name": "Ancestors",
 		"rw-name": "Death",
 		"major": true,
-		"plant": "Flower of Stone",
+		"plant": ["Flower of Stone"],
 		"verse": "The eye [that] mocketh at [his] father, and despiseth to obey [his] mother, the ravens of the valley shall pick it out, and the young eagles shall eat it. - Proverbs 30:17",
 		"qualities": {
 			"consideration": [
@@ -406,7 +406,7 @@
 		"name": "The Garden",
 		"rw-name": "The World",
 		"major": true,
-		"plant": "Cosmos",
+		"plant": ["Cosmos"],
 		"verse": "The LORD will guide you always; he will satisfy your needs in a sun-scorched land and will strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail. - Isaiah 58:11",
 		"qualities": {
 			"consideration": [
@@ -425,7 +425,7 @@
 		"name": "5 of Baskets",
 		"rw-name": "5 of Cups",
 		"major": false,
-		"plant": "St. John's Wort",
+		"plant": ["St. John's Wort"],
 		"qualities": {
 			"positive": "moving on, finally forgiving yourself, renewed hope, seeking help for emotional problems, recovery, feeling alive again, and letting go of grief, sorrow, and/or disappointment",
 			"negative": "brooding, mourning, loss, resentment, unwelcome change, feelings of abandonment, failure, separation, punishment, pessimism, bitterness, remorse, heartbreaking situations, and traumatic experiences"
@@ -448,7 +448,7 @@
 		"name": "9 of Knives",
 		"rw-name": "9 of Swords",
 		"major": false,
-		"plant": "Lavender",
+		"plant": ["Lavender"],
 		"qualities": {
 			"positive": "renewed hope, the end of suffering, the worst being over, good news, seeking help for depression and anxieties, and letting go",
 			"negative": "anxieties, stress, despair, sleepless nights, worst fears coming true, guilt, bereavement, worry, depression, nightmares, being too hard on yourself, terror, shameful secrets, isolation, hexes, agonizing pain, regrets, hopelessness, negativity, illness, spite, breakdowns, thoughts of suicide, seclusion, repeatedly rehashing an unpleasant situation, and crying jags"
@@ -458,7 +458,7 @@
 		"name": "8 of Coins",
 		"rw-name": "8 of Pentacles",
 		"major": false,
-		"plant": "Milkweed",
+		"plant": ["Milkweed"],
 		"qualities": {
 			"positive": "skill development, working hard to attain a goal, craftsmanship, job training, apprenticeship, interns, a new job, thorough research, project development, brainstorming, students, teachers, education, mastering a subject, studying, grinding, and entrepreneurship",
 			"negative": "perfectionism, shortcuts, low-quality merchandise, shoddy work, incompetent employees, truancy, fake gurus, \"all work and no play makes Jack a dull boy,\" people with questionable credentials, and lack of ambition"
@@ -468,7 +468,7 @@
 		"name": "Ace of Knives",
 		"rw-name": "Ace of Swords",
 		"major": false,
-		"plant": "Ashwagandha",
+		"plant": ["Ashwagandha"],
 		"qualities": {
 			"positive": "facing fears, logic, triumph over adversity, objectivity, intellectuals, mind power, breakthroughs, getting to the point, clarity, determination, decision-makers, the power of words, seeing through illusions, analysis, quick-witted people, justice, surgery, critical thinkers, authority, calling it as you see it, and accepting the truth even when it hurts",
 			"negative": "inappropriate speech, the thought police, clouded judgement, psychological operations, self-mutilation, excessive force, inability to concentrate, domineering people, bullies, memory loss, being indecisive, getting cursed out, problems with the law, getting cut off, lack of ideas, and stupid people"
@@ -478,7 +478,7 @@
 		"name": "7 of Sticks",
 		"rw-name": "7 of Wands",
 		"major": false,
-		"plant": "Elderberry",
+		"plant": ["Elderberry"],
 		"qualities": {
 			"positive": "standing your ground, strength in adversity, defending your beliefs, the final showdown, a fair competition, protests, resisting authority, protecting what's rightfully yours, and the ability to summon inner strength",
 			"negative": "being pushed around, exhaustion, being a doormat, struggling to survive, the odds being against you, fighting a losing battle, being scapegoated, feeling overwhelmed, quitting, getting bullied, stubbornness, narrowmindedness, failing to admit when you're wrong, hidden enemies, and surrendering"
@@ -488,7 +488,7 @@
 		"name": "4 of Knives",
 		"rw-name": "4 of Swords",
 		"major": false,
-		"plant": "Licorice Root",
+		"plant": ["Licorice Root"],
 		"qualities": {
 			"positive": "a well-deserved rest, introversion, prayer, re-centering, relief from stress, finding sanctuary, contemplation, solitude, peace and quiet, recovery, quiet preparation, meditation, and getting a grip",
 			"negative": "exhaustion, detention, feeling burnt out, enforced isolation, stagnation, restlessness, and refusal to slow down"
@@ -498,7 +498,7 @@
 		"name": "3 of Coins",
 		"rw-name": "3 of Pentacles",
 		"major": false,
-		"plant": "Vetiver",
+		"plant": ["Vetiver"],
 		"qualities": {
 			"positive": "employment, professional growth, internships, high standards, appreciation for a job well done, beneficial use of talents, exceeding expectations, promotions, detail-oriented people, upgrades, improvement in social status, being validated by others, degrees or certifications, collaborations, and goal-oriented people",
 			"negative": "incompetence, missed opportunities, know-it-alls, demotions, work-related problems, lack of skill, falling short, half-hearted efforts, and poor work ethic"
@@ -508,7 +508,7 @@
 		"name": "Daughter of Coins",
 		"rw-name": "Page of Pentacles",
 		"major": false,
-		"plant": "Mulberry",
+		"plant": ["Mulberry"],
 		"qualities": {
 			"positive": "hard worker, committed, organized, honest, values tradition, and always wants to do the right thing",
 			"negative": "anal-retentive, pessimistic, stubborn, joyless, compulsive, fearful, and a perfectionist"
@@ -518,7 +518,7 @@
 		"name": "Ace of Coins",
 		"rw-name": "Ace of Pentacles",
 		"major": false,
-		"plant": "Pomegranate",
+		"plant": ["Pomegranate"],
 		"qualities": {
 			"positive": "inheritance, receiving money or gifts, new financial or career opportunities, productivity, fertility, job offers, abundance, practical advice, achieving tangible results, blessings, lottery winners, optimism, money, reward for hard work, improved health, happy new beginnings, having a support system, manifestation, windfalls, and good omens",
 			"negative": "broke people, bad investments, possessiveness, lack of planning, greed, excessive spending, stinginess, bankruptcy, materialism, and misers"
@@ -528,7 +528,7 @@
 		"name": "Aunt Caroline",
 		"rw-name": "Wheel of Fortune",
 		"major": true,
-		"plant": "Hickory",
+		"plant": ["Hickory"],
 		"verse": "There is a time for everything, and a season for every activity under the heavens. - Ecclesiastes 3:1",
 		"qualities": {
 			"consideration": [
@@ -552,7 +552,7 @@
 		"name": "Mother of Knives",
 		"rw-name": "Queen of Swords",
 		"major": false,
-		"plant": "Rue",
+		"plant": ["Rue"],
 		"qualities": {
 			"positive": "perceptive, analytical, forthright, witty, independent, resilient, highly intelligent, deep, and sets clear boundaries",
 			"negative": "perfectionist, cold-hearted, aggressive, and bitchy"
@@ -562,7 +562,7 @@
 		"name": "8 of Baskets",
 		"rw-name": "8 of Cups",
 		"major": false,
-		"plant": "Cactus",
+		"plant": ["Cactus"],
 		"qualities": {
 			"positive": "becoming independent, moving on, leaving the past behind, trying to find oneself, retreat, relocating, abandoning all that you have outgrown, and seekers of truth",
 			"negative": "Fear of the unknown, unhealthy attachments, making changes you will regret later, fear of commitment, a flat leaver, fair weather friends, abandoning responsibilities, and aimless wandering"
@@ -572,7 +572,7 @@
 		"name": "4 of Coins",
 		"rw-name": "4 of Pentacles",
 		"major": false,
-		"plant": "Marigold",
+		"plant": ["Marigold"],
 		"qualities": {
 			"positive": "financial security, material gains, sound investments, inheritance, careful budgeting, living within one's means, conservatism, and saving for a rainy day",
 			"negative": "greed, hoarders, selfishness, wastefulness, obsessive couponing, clingy people, scarcity consciousness, penny pinchers, controlling personalities, and fear of change"
@@ -582,7 +582,7 @@
 		"name": "Mother of Baskets",
 		"rw-name": "Queen of Cups",
 		"major": false,
-		"plant": "Wormwood",
+		"plant": ["Wormwood"],
 		"qualities": {
 			"positive": "mpathetic, supportive, psychic, introspective, spiritual, intuitive, and loving",
 			"negative": "needy, emotionally unstable, impractical, a crybaby, or a pushover"
@@ -592,7 +592,7 @@
 		"name": "Dem Bones",
 		"rw-name": "Judgement",
 		"major": true,
-		"plant": "Carolina Blackthorn",
+		"plant": ["Carolina Blackthorn"],
 		"verse": "Do not judge by appearances, but judge with right judgment. - John 7:24",
 		"qualities": {
 			"consideration": [
@@ -608,7 +608,7 @@
 		"name": "The Free Man",
 		"rw-name": "The Fool",
 		"major": true,
-		"plant": "Jimsonweed",
+		"plant": ["Jimsonweed"],
 		"verse": "And you will know the truth, and the truth will set you free. - John 8:32",
 		"qualities": {
 			"consideration": [
@@ -633,7 +633,7 @@
 		"name": "3 of Sticks",
 		"rw-name": "3 of Wands",
 		"major": false,
-		"plant": "Kudzu",
+		"plant": ["Kudzu"],
 		"qualities": {
 			"positive": "improved finances, travel, exploration, becoming a leader, seeing the big picture, embarking on a quest, expansion, feeling free and uninhibited, visionary, power moves, reaping the reward for hard work, and receiving potentially game-changing advice",
 			"negative": "nothing working out as planned, unforeseen obstacles, hidden adversaries, obsession with past failures, short-term thinking, making the wrong moves, lack of real effort, not being taken seriously, and lack of imagination and foresight"
@@ -643,7 +643,7 @@
 		"name": "Gullah Jack",
 		"rw-name": "The Hanged Man",
 		"major": true,
-		"plant": "Hemp",
+		"plant": ["Hemp"],
 		"verse": "The heart of man plans his way, but the LORD establishes his steps. - Proverbs 16:9",
 		"qualities": {
 			"consideration": [
@@ -675,7 +675,7 @@
 		"name": "The Grandchildren",
 		"rw-name": "The Star",
 		"major": true,
-		"plant": "Scarlet Rosemallow",
+		"plant": ["Scarlet Rosemallow"],
 		"verse": "Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home. - Genesis 31:55",
 		"qualities": {
 			"consideration": [
@@ -697,7 +697,7 @@
 		"name": "10 of Coins",
 		"rw-name": "10 of Pentacles",
 		"major": false,
-		"plant": "Sarsaparilla",
+		"plant": ["Sarsaparilla"],
 		"qualities": {
 			"positive": "strong family ties, supportive relatives, ancestors, inheritance, old money, proud legacies, trust funds, family gatherings, financial stability, plenty, respecting family traditions, business success, and unexpected windfalls",
 			"negative": "broken families, shameful legacies, poverty-stricken families, nepotism, money problems, affluenza, rejecting one's heritage, fighting over money, unconventional behavior that causes family problems, new money, and pretending to have more money/material things than you actually do"
@@ -707,7 +707,7 @@
 		"name": "Daughter of Knives",
 		"rw-name": "Page of Swords",
 		"major": false,
-		"plant": "Yarrow",
+		"plant": ["Yarrow"],
 		"qualities": {
 			"positive": "logical, quick-witted, action-oriented, well-informed, direct, philosophical, and always up for a challenge",
 			"negative": "sarcastic, condescending, rude, impatient, domineering, insensitive, acidic, and pedantic"
@@ -717,7 +717,7 @@
 		"name": "8 of Baskets", 
 		"rw-name": "8 of Cups", 
 		"major": false, 
-		"plant": "Cactus", 
+		"plant": ["Cactus"], 
 		"qualities": {
 			"positive": "rapid progress, forward movement, communication, finding a resolution, excitement, whirlwind romances, gaining momentum, receiving a critical message, eye-opening experiences, being in alignment, ending of delays, travel by air, and successful journeys",
 			"negative": "a serious emergency, wasted energy, being too pushy, reckless behavior, transportation faltering, leaping before looking, unexpected break-ups, extreme frustration, high pressure situations, hasty decisions, ideas that are way out there, hysteria, and failure to recognize signs and warnings"
@@ -727,7 +727,7 @@
 		"name": "10 of Baskets",
 		"rw-name": "10 of Cups",
 		"major": false,
-		"plant": "Bay Starvine",
+		"plant": ["Bay Starvine"],
 		"qualities": {
 			"positive": "loads being lifted, knowing when to ask for help, learning to delegate responsibilities, focusing more on self-care, taking a day off",
 			"negative": "stress, feeling burdened, overworking, reaching the breaking point, having too many responsibilities, inability to say no, swimming against the tide, cruel supervisors, hard times, struggling to make ends meet, a martyr's complex, workaholism, crushing debt, exploitive labor, a life filled with nothing but obligations, and people that always puts other's feelings before their own"
@@ -737,7 +737,7 @@
 		"name": "7 of Knives",
 		"rw-name": "7 of Swords",
 		"major": false,
-		"plant": "Dogwood",
+		"plant": ["Dogwood"],
 		"qualities": {
 			"consideration": ["Do you fear being brilliant or successful?",
 			"What is being highlighted?",
@@ -757,7 +757,7 @@
 		"name": "9 of Baskets", 
 		"rw-name": "9 of Cups", 
 		"major": false, 
-		"plant": "Marigold", 
+		"plant": ["Marigold"], 
 		"qualities": {
 			"positive": "dreams fulfilled, plenty, art appreciation, wishes that come true, sensuality, rewards, hitting the jackpot, happiness, pampering, the finer things in life, financial security, prosperity, attaining your heart’s desire, gratitude, and “making it.”",
 			"negative": "materialistic people, greed, lack, people that are never satisfied, gluttony, spoiled brats, feeling unfulfilled, narcissists, smugness, overindulgence, shattered dreams, shallowness, and hedonism."
@@ -767,7 +767,7 @@
 		"name": "5 of Sticks", 
 		"rw-name": "5 of Wands", 
 		"major": false, 
-		"plant": "Edelweiss", 
+		"plant": ["Edelweiss"], 
 		"qualities": {
 			"positive": "healthy competition, diversity, assertiveness, having faith that you can win, arguments that reveal the truth, martial arts, finding common ground, a battle of wits, debate club, relief from tension, and breaking the ice.", 
 			"negative": "unnecessary drama, haters, trolls, failing to stand up for oneself, lack of competition, minor annoyances, embarrassing or uncomfortable situations, the devil in the details, grudges, being easily intimidated, and pretending things are okay when they’re not."
@@ -800,7 +800,7 @@
 		"name": "Gullah Jack", 
 		"rw-name": "The Hanged Man", 
 		"verse": "The heart of the man plans his way, but the LORD establishes his steps. - Proverbs 16:9", 
-		"plant": "Hemp", 
+		"plant": ["Hemp"], 
 		"major": true, 
 		"qualities":{
 			"consideration": [
@@ -818,7 +818,7 @@
 	{
 		"name": "7 of Knives", 
 		"rw-name": "7 of Swords", 
-		"plant": "Dogwood", 
+		"plant": ["Dogwood"], 
 		"major": false, 
 		"qualities": {
 			"positive": "strategic planning, a sincere apology, constructive criticism, reparations, confessions, lone wolves, and turning over a new leaf.", 
@@ -828,7 +828,7 @@
 	{
 		"name": "10 of Baskets", 
 		"rw-name": "10 of Cups", 
-		"plant": "Dandelion", 
+		"plant": ["Dandelion"], 
 		"major": false, 
 		"qualities": {
 			"positive": "happy families, spiritual contentment, consensus, harmonious relationships, blessings, shared values, friends that never let you down, reunions, stability, soulmates, comradery, unity, celebrations with loved ones, and ideal domestic situations", 
@@ -840,7 +840,7 @@
 		"rw-name": "Judgment", 
 		"verse": "Do not judge by appearances, but judge with right judgment. - John 7:24", 
 		"major": true, 
-		"plant": "Carolina Buckthorn", 
+		"plant": ["Carolina Buckthorn"], 
 		"qualities": {
 			"consideration": [
 				"It may be time for an honest self-assessment.",
@@ -855,7 +855,7 @@
 		"name": "Mother of Baskets", 
 		"rw-name": "Queen of Cups", 
 		"major": false, 
-		"plant": "Wormwood", 
+		"plant": ["Wormwood"], 
 		"qualities": {
 			"positive": "empathetic, supportive, psychic, introspective, spiritual, intuitive, and loving", 
 			"negative": "needy, emotionally unstable, impractical, a crybaby, or a pushover"
@@ -865,7 +865,7 @@
 		"name": "10 of Coins", 
 		"rw-name": "10 of Pentacles", 
 		"major": false, 
-		"plant": "Sarsaparilla", 
+		"plant": ["Sarsaparilla"], 
 		"qualities": {
 			"positive": "strong family ties, supportive relatives, ancestors, inheritance, old money, proud legacies, trust funds, family gatherings, financial stability, plenty, respecting family traditions, business success, and unexpected windfalls.", 
 			"negative": "broken families, shameful legacies, poverty-stricken families, nepotism, money problems, affluenza, rejecting one’s heritage, fighting over money, unconventional behavior that causes family problems, new money, and pretending to have more money/material things than you actually do."
@@ -875,7 +875,7 @@
 		"name": "4 of Coins", 
 		"rw-name": "4 of Pentacles", 
 		"major": false, 
-		"plant": "Marigold", 
+		"plant": ["Marigold"], 
 		"qualities": {
 			"positive": "financial security, material gains, sound investments, inheritance, careful budgeting, living within one’s means, conservatism, and saving for a rainy day", 
 			"negative": "greed, hoarders, selfishness, wastefulness, obsessive couponing, clingy people, scarcity consciousness, penny pinchers, controlling personalities, and fear of change."
@@ -886,7 +886,7 @@
 		"rw-name": "The Star", 
 		"verse": "Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home. - Genesis 31:55", 
 		"major": true, 
-		"plant": "Scarlet Rosemallow", 
+		"plant": ["Scarlet Rosemallow"], 
 		"qualities": {
 			"consideration": [
 				"Do I regularly count my blessings?",
@@ -907,7 +907,7 @@
 		"name": "Ace of Baskets", 
 		"rw-name": "Ace of Cups", 
 		"major": false, 
-		"plant": "Wild Lettuce", 
+		"plant": ["Wild Lettuce"], 
 		"qualities": {
 			"positive": "compassion, emotional renewal, having a sense of peace, falling in love, conception, new relationships, happiness, messages in water, abundance, empaths, intuition, feeling refreshed, spiritual people, and healing old wounds.", 
 			"negative": "suppressed feelings, unrequited love, being overly emotional, miscarriage, and bad break-ups"
@@ -917,7 +917,7 @@
 		"name": "2 of Knives", 
 		"rw-name": "2 of Swords", 
 		"major": false, 
-		"plant": "Baby's Breath", 
+		"plant": ["Baby's Breath"], 
 		"qualities": {
 			"positive": "a truce, making a firm decision, renewed action, lies being exposed, saying what you mean and meaning what you say, being in touch with how you really feel, facing the consequences of past choices, patiently waiting to see if things work out, anxieties subsisting, the time to move on, and the crossroads", 
 			"negative": "feeling stuck in a rut, tense situations, opposition, feeling uncertain, stalemate, self-doubt, making hard choices, prolonged waiting, indecision, suppressed feelings, avoiding the real issues, unequal partnership, suppressed emotions, failure to see things as they really are, partners that are only partially committed, failure to communicate effectively, and fence riders."
@@ -927,7 +927,7 @@
 		"name": "9 of Coins", 
 		"rw-name": "9 of Pentacles", 
 		"major": false, 
-		"plant": "Goldenseal", 
+		"plant": ["Goldenseal"], 
 		"qualities": {
 			"positive": "self-reliance, well-deserved success, prosperity as a result of hard work, self-employed people, property owners, inheritance, material gain, creature comforts, upscale lifestyles, leisure time spent alone, luxury, discipline, avoiding the bad part of town, enjoyment of the finer things in life, people society considers classy, and taking the time to relax and unwind.", 
 			"negative": "financial setbacks, hustlers, pretending to care about others for financial gain, people society considers low class, vulgar behavior, shopaholics, keeping up with the Joneses, maxing out credit cards, shallowness, unethical social climbers, snobs, and people that are obsessed with material things and status."
@@ -938,7 +938,7 @@
 		"rw-name": "The Hermit", 
 		"verse": "But he [Jesus] would withdraw to desolate places and pray... - Luke 5:16", 
 		"major": true, 
-		"plant": "Duckweed", 
+		"plant": ["Duckweed"], 
 		"qualities": {
 			"consideration": [
 				"Do you understand the importance of alone time?",
@@ -959,7 +959,7 @@
 		"rw-name": "Strength", 
 		"major": true, 
 		"verse": "May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy. - Colossians 1:11", 
-		"plant": "Chamomile", 
+		"plant": ["Chamomile"], 
 		"qualities": {
 			"consideration": [
 				"Are you strong enough to be compassionate?",
@@ -979,7 +979,7 @@
 		"name": "10 of Knives", 
 		"rw-name": "10 of Swords", 
 		"major": false, 
-		"plant": "White Rose", 
+		"plant": ["White Rose"], 
 		"qualities": {
 			"positive": "surviving a disaster, being discerning about who you trust, learning from past mistakes, getting saved at the nick of time, things still sucking but getting better.", 
 			"negative": "defeat, martyrdom, the end of a cycle, hitting rock bottom, distress, relapses, betrayal, negative thinking, hard times, hospice care, drastic change, badmouthing, chronic pain, deep wounds, refusing to accept that something is over, and sacrifices."
@@ -1014,7 +1014,7 @@
 		"name": "4 of Sticks", 
 		"rw-name": "4 of Wands", 
 		"major": false, 
-		"plant": "Angelica", 
+		"plant": ["Angelica"], 
 		"qualities": {
 			"positive": "A cause for celebration, a special event, relaxation, laying down roots, feeling blessed, harmonious interactions, taking things to the next level, letting your hair down, prosperity, rites of passage, family reunions, freedom, security, teamwork making the dream work, something wonderful to look forward to, feeling good about yourself, and dreams coming true.", 
 			"negative": "conflict, minor delays, family dysfunction, unconstructive criticism, cancelled plans, instability, division in the community, and feeling unwelcome."
@@ -1034,7 +1034,7 @@
 		"name": "6 of Sticks", 
 		"rw-name": "6 of Wands", 
 		"major": false, 
-		"plant": "Goatsrue", 
+		"plant": ["Goatsrue"], 
 		"qualities": {
 			"positive": "victory, getting promoted, overcoming hardship, receiving compliments, great news, recognition, having high self-esteem, becoming a VIP, feeling encouraged, being sought out for your expertise, and being a recognized hero", 
 			"negative": "flatterers, frenemies, being pompous, condescending comments, a fall from grace, loss of respect, excessive pride, groupies, needing constant validation from others, humiliating defeat, people that are desperate for attention, and epic fails."
@@ -1044,7 +1044,7 @@
 		"name": "3 of Sticks", 
 		"rw-name": "3 of Wands", 
 		"major": false, 
-		"plant": "Kudzu", 
+		"plant": ["Kudzu"], 
 		"qualities": {
 			"positive": "improved finances, travel, exploration, becoming a leader, seeing the big picture, embarking on a quest, expansion, feeling free and uninhibited, visionary, power moves, reaping the reward for hard work, and receiving potentially game-changing advice.", 
 			"negative": "nothing working out as planned, unforeseen obstacles, hidden adversaries, obsession with past failures, short-term thinking, making the wrong moves, lack of real effort, not being taken seriously, and lack of imagination and foresight."
@@ -1055,7 +1055,7 @@
 		"rw-name": "The Fool", 
 		"major": true, 
 		"verse": "And you will know the truth, and the truth will set you free. - John 8:32", 
-		"plant": "Jimsonweed", 
+		"plant": ["Jimsonweed"], 
 		"qualities": {
 			"consideration": [
 				"What is the best thing that could happen if things go your way? What is the worst thing that could happen if they don’t? Can you live without ever knowing?", 
@@ -1079,7 +1079,7 @@
 		"rw-name": "The Tower", 
 		"verse": "But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he sha;; stretch out upon it the line of confusion, and the stones of emptiness. - Isaiah 34:11", 
 		"major": true, 
-		"plant": "Oak", 
+		"plant": ["Oak"], 
 		"qualities": {
 			"consideration": [
 				"Your plans may be disrupted in a way you can’t imagine.",
@@ -1094,6 +1094,156 @@
 				"Perhaps it’s not such a big surprise at all; you just weren’t ready to see it.",
 				"The truth hurts."
 			]
+		}
+	}, 
+	{
+		"name": "Courting", 
+		"rw-name": "The Lovers", 
+		"verse": "For there are three that testify: the Spirit and the water and the blood; and these three agree. - 1 John 5:7-8", 
+		"major": true, 
+		"plant": ["Squash Plant Leaves"], 
+		"qualities": {
+			"consideration": [
+				"What binds you to her, him, this, or that? Is that healthy?", 
+				"Is that how you really feel, or are you parroting someone else?",
+				"Make up your mind!",
+				"What is your philosophy of life, and how does that inform this relationship?",
+				"What if you commit fully to this?",
+				"Is the passion/love/desire reciprocal?",
+				"Cute doesn’t last. Are your morals, values, and goals aligned?",
+				"Are you both on the same page, or do you have entirely different books?",
+				"The moral to the story is . . ."
+			]
+		}
+
+	}, 
+	{
+		"name": "Dr. Buzzard", 
+		"rw-name": "Justice", 
+		"verse": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them. - Ezekial 25:17", 
+		"major": true, 
+		"plant": ["Galangal Root"], 
+		"qualities": {
+			"consideration": [
+				"What would be a fair way to resolve this conflict?",
+				"Did you do something wrong? If no, don’t worry about it. If yes, then you’re about topay the price.", 
+				"Did someone do something wrong to you? If no, don’t worry about it. If yes, then they’ve set the wheel of justice in motion against themselves.",
+				"Have you taken responsibility for all of the choices you’ve made?",
+				"If something is forgivable, then forgive. If not, now what?",
+				"If revenge is taken for an offense, will you regret that you did it once you’ve calmed down? If so, then chill out and move on."
+			]
+		}
+	}, 
+	{
+		"name": "Big Mama", 
+		"rw-name": "The Sun", 
+		"verse": "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well. - 2 Timothy 1:5", 
+		"major": true, 
+		"plant": ["Sunflower"], 
+		"qualities": {
+			"consideration": [
+				"Do you fear being brilliant or successful?",
+				"What is being highlighted?",
+				"It’s okay to be the center of attention sometimes.",
+				"What does enlightenment mean to you?",
+				"Take a personal day from work.",
+				"Who are the important players in the situation?",
+				"Am I exhibiting a positive attitude?",
+				"Reputations matter.",
+				"It’s time to celebrate.",
+				"Confidence is the best cosmetic.",
+				"What do you need to do to look and feel your best?"
+			]
+		}
+	}, 
+	{
+		"name": "Son of Coins", 
+		"rw-name": "Knight of Pentacles", 
+		"major": false, 
+		"plant": "Honeysuckle", 
+		"qualities": {
+			"positive": "grounded, stylish, sets clear and realistic goals, has faith in himself, values education, and is at home in the body and a comfort to others", 
+			"negative": "easily overwhelmed, debt-prone, unfocused, obsessive compulsive, a buzzkill, a chronic daydreamer, entertains poverty consciousness, or feels guilty about having money, being comfortable, and being privileged"
+		}
+	}, 
+	{
+		"name": "6 of Coins", 
+		"rw-name": "6 of Pentacles", 
+		"major": false, 
+		"plant": "Four-leaf Clover", 
+		"qualities": {
+			"positive": "charitable giving, generosity, debt repayment, loans, grants, scholarships, philanthropy, financial aid, fairness, receiving money owed, earning extra money, equality, mentoring, helping others, sugar daddies/mamas, and those that care about the community.", 
+			"negative": "getting cut off financially, being left without proper guidance, extortion, users, gigolos, gold diggers, pimps, gifts with strings attached, blackmail, con artists, Trojan horses, and show-offs."
+		}
+	}, 
+	{
+		"name": "5 of Coins", 
+		"rw-name": "5 of Pentacles", 
+		"major": false, 
+		"plant": "Nettle", 
+		"qualities": {
+			"positive": "hard times coming to an end, a new job after prolonged unemployment, renewed faith, recovery from financial ruin, improved luck, feeling welcome, rehabilitation, debt repayment, and a light at the end of the tunnel.", 
+			"negative": "unemployment, homelessness, recessions, worry, failure to seek spiritual guidance, adversity, misery, despair, disgrace, misfortune, loss, disappointment, miserable luck, being down-and-out, isolation, lack of faith, and ill health."
+		}
+	}, 
+	{
+		"name": "Daughter of Baskets", 
+		"rw-name": "Paige of Cups", 
+		"major": false, 
+		"plant": "Baneberry", 
+		"qualities": {
+			"positive": "charming, imaginative, creative, loyal, and has great communication skills.", 
+			"negative": "delusional, jealous, a pathological liar, a con artist, or suppresses her feelings"
+		}
+	}, 
+	{
+		"name": "8 of Sticks", 
+		"rw-name": "8 of Wands", 
+		"major": false, 
+		"plant": "Poplar", 
+		"qualities": {
+			"positive": "rapid progress, forward movement, communication, finding a resolution, excitement, whirlwind romances, gaining momentum, receiving a critical message, eye-opening experiences, being in alignment, ending of delays, travel by air, and successful journeys.", 
+			"negative": "a serious emergency, wasted energy, being too pushy, reckless behavior, transportation faltering, leaping before looking, unexpected break-ups, extreme frustration, high pressure situations, hasty decisions, ideas that are way out there, hysteria, and failure to recognize signs and warnings."
+		}
+	}, 
+	{
+		"name": "9 of Sticks", 
+		"rw-name": "9 of Wands", 
+		"major": false, 
+		"plant": "Pepper", 
+		"qualities": {
+			"positive": "defending yourself, a test of faith, perseverance, being prepared, a fight to the death, will power, resilience, guarding your boundaries, and an attitude of “would rather do than die.”", 
+			"negative": "a defeatist attitude, paranoia, refusing to compromise, having no backbone, and getting hurt as a result of trusting the wrong people."
+		}
+	}, 
+	{
+		"name": "10 of Sticks", 
+		"rw-name": "10 of Wands", 
+		"major": false, 
+		"plant": "Bay Starvine", 
+		"qualities": {
+			"positive": "loads being lifted, knowing when to ask for help, learning to delegate responsibilities, focusing more on self-care, taking a day off", 
+			"negative": "stress, feeling burdened, overworking, reaching the breaking point, having too many responsibilities, inability to say no, swimming against the tide, cruel supervisors, hard times, struggling to make ends meet, a martyr’s complex, workaholism, crushing debt, exploitive labor, a life filled with nothing but obligations, and people that always puts other’s feelings before their own."
+		}
+	}, 
+	{
+		"name": "8 of Knives", 
+		"rw-name": "8 of Swords", 
+		"major": false, 
+		"plant": "Star Anise", 
+		"qualities": {
+			"positive": "believing in yourself again, empowered thinking, the removal of obstacles, escape from bondage, acquittal, being productive, a much-needed release, ceasing to be your own worst enemy, liberating oneself from a victim mentality, renewed hope, and finding a way out of a predicament.", 
+			"negative": "Feeling oppressed, self-hate, feeling unable to move, problems communicating with others, being bound by circumstances, feeling like others are putting you in a box, fear of the unknown, self-limiting beliefs, suppressed history, holding yourself back, people with a negative vibe, and masochists."
+		}
+	}, 
+	{
+		"name": "Son of Knives", 
+		"rw-name": "Knight of Swords", 
+		"major": false, 
+		"plant": "Ragweed", 
+		"qualities": {
+			"positive": "innovative, gung ho, energetic, vigilant, clever, and persuasive", 
+			"negative": "pushy, aggressive, two-faced, a gossip, a hustler, and likes to take unnecessary risks and spread rumors and drama"
 		}
 	}
 ]
