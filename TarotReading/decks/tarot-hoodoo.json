@@ -1,15 +1,5 @@
 [
 	{
-		"name": "Name",
-		"rw-name": "RW Name",
-		"major": false,
-		"plant": "",
-		"qualities": {
-			"positive": "",
-			"negative": ""
-		}
-	},
-	{
 		"name": "Father of Baskets",
 		"rw-name": "King of Cups",
 		"major": false,
@@ -254,16 +244,6 @@
 		"qualities": {
 			"positive": "efficient leader, responsible, disciplined, reliable, enterprising, lucky, and focused on abundance",
 			"negative": "classist, a show off, a braggart, makes bad investments, has gambling problems, will resort to questionable or illegal activity to \"make it,\" or is susceptible to get-rich-quick schemes"
-		}
-	},
-	{
-		"name": "",
-		"rw-name": "RW Name",
-		"major": true,
-		"plant": "",
-		"verse": "",
-		"qualities": {
-			"consideration": ""
 		}
 	},
 	{
