@@ -13,8 +13,9 @@ card_num = randint(0, num_of_cards-1)
 card = rw_deck[card_num]
 
 directions = ["Upright", "Reversed"]
+direction = choice(directions)
 
-print(f"Name: {card["name"]}", choice(directions))
+print(f"Name: {card["name"]}", direction)
 print("Qualities: ")
 
 if card["qualities"]["general"] != "null":
@@ -56,13 +57,14 @@ for h_card in hoodoo_deck:
         eq_card = h_card
         print("Card found")
         break
-#print hoodoo deck name
 if eq_card["major"] == False: 
-    print("Plant:", eq_card["plant"])
+    print(eq_card["name"], direction)
+    print("Plant:", ", ".join(sorted(eq_card["plant"])))
     print("Positive Qualities:", eq_card["qualities"]["positive"])
     print("Negative Qualities:", eq_card["qualities"]["negative"])
 else:
-    print("Plant:", eq_card["plant"])
+    print(eq_card["name"] )
+    print("Plant:", ", ".join(sorted(eq_card["plant"])))
     print("Verse:", eq_card["verse"])
     print("Consider the following:", eq_card["qualities"]["consideration"])
 
