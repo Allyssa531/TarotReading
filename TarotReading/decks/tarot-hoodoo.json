@@ -1099,7 +1099,7 @@
 		"name": "Son of Coins",
 		"rw-name": "Knight of Pentacles",
 		"major": false,
-		"plant": "Honeysuckle",
+		"plant": ["Honeysuckle"],
 		"qualities": {
 			"positive": "grounded, stylish, sets clear and realistic goals, has faith in himself, values education, and is at home in the body and a comfort to others",
 			"negative": "easily overwhelmed, debt-prone, unfocused, obsessive compulsive, a buzzkill, a chronic daydreamer, entertains poverty consciousness, or feels guilty about having money, being comfortable, and being privileged"
@@ -1109,7 +1109,7 @@
 		"name": "6 of Coins",
 		"rw-name": "6 of Pentacles",
 		"major": false,
-		"plant": "Four-leaf Clover",
+		"plant": ["Four-leaf Clover"],
 		"qualities": {
 			"positive": "charitable giving, generosity, debt repayment, loans, grants, scholarships, philanthropy, financial aid, fairness, receiving money owed, earning extra money, equality, mentoring, helping others, sugar daddies/mamas, and those that care about the community.",
 			"negative": "getting cut off financially, being left without proper guidance, extortion, users, gigolos, gold diggers, pimps, gifts with strings attached, blackmail, con artists, Trojan horses, and show-offs."
@@ -1119,7 +1119,7 @@
 		"name": "5 of Coins",
 		"rw-name": "5 of Pentacles",
 		"major": false,
-		"plant": "Nettle",
+		"plant": ["Nettle"],
 		"qualities": {
 			"positive": "hard times coming to an end, a new job after prolonged unemployment, renewed faith, recovery from financial ruin, improved luck, feeling welcome, rehabilitation, debt repayment, and a light at the end of the tunnel.",
 			"negative": "unemployment, homelessness, recessions, worry, failure to seek spiritual guidance, adversity, misery, despair, disgrace, misfortune, loss, disappointment, miserable luck, being down-and-out, isolation, lack of faith, and ill health."
@@ -1129,7 +1129,7 @@
 		"name": "Daughter of Baskets",
 		"rw-name": "Paige of Cups",
 		"major": false,
-		"plant": "Baneberry",
+		"plant": ["Baneberry"],
 		"qualities": {
 			"positive": "charming, imaginative, creative, loyal, and has great communication skills.",
 			"negative": "delusional, jealous, a pathological liar, a con artist, or suppresses her feelings"
@@ -1139,7 +1139,7 @@
 		"name": "8 of Sticks",
 		"rw-name": "8 of Wands",
 		"major": false,
-		"plant": "Poplar",
+		"plant": ["Poplar"],
 		"qualities": {
 			"positive": "rapid progress, forward movement, communication, finding a resolution, excitement, whirlwind romances, gaining momentum, receiving a critical message, eye-opening experiences, being in alignment, ending of delays, travel by air, and successful journeys.",
 			"negative": "a serious emergency, wasted energy, being too pushy, reckless behavior, transportation faltering, leaping before looking, unexpected break-ups, extreme frustration, high pressure situations, hasty decisions, ideas that are way out there, hysteria, and failure to recognize signs and warnings."
@@ -1149,7 +1149,7 @@
 		"name": "9 of Sticks",
 		"rw-name": "9 of Wands",
 		"major": false,
-		"plant": "Pepper",
+		"plant": ["Pepper"],
 		"qualities": {
 			"positive": "defending yourself, a test of faith, perseverance, being prepared, a fight to the death, will power, resilience, guarding your boundaries, and an attitude of \u201cwould rather do than die.\u201d",
 			"negative": "a defeatist attitude, paranoia, refusing to compromise, having no backbone, and getting hurt as a result of trusting the wrong people."
@@ -1159,7 +1159,7 @@
 		"name": "10 of Sticks",
 		"rw-name": "10 of Wands",
 		"major": false,
-		"plant": "Bay Starvine",
+		"plant": ["Bay Starvine"],
 		"qualities": {
 			"positive": "loads being lifted, knowing when to ask for help, learning to delegate responsibilities, focusing more on self-care, taking a day off",
 			"negative": "stress, feeling burdened, overworking, reaching the breaking point, having too many responsibilities, inability to say no, swimming against the tide, cruel supervisors, hard times, struggling to make ends meet, a martyr\u2019s complex, workaholism, crushing debt, exploitive labor, a life filled with nothing but obligations, and people that always puts other\u2019s feelings before their own."
@@ -1169,7 +1169,7 @@
 		"name": "8 of Knives",
 		"rw-name": "8 of Swords",
 		"major": false,
-		"plant": "Star Anise",
+		"plant": ["Star Anise"],
 		"qualities": {
 			"positive": "believing in yourself again, empowered thinking, the removal of obstacles, escape from bondage, acquittal, being productive, a much-needed release, ceasing to be your own worst enemy, liberating oneself from a victim mentality, renewed hope, and finding a way out of a predicament.",
 			"negative": "Feeling oppressed, self-hate, feeling unable to move, problems communicating with others, being bound by circumstances, feeling like others are putting you in a box, fear of the unknown, self-limiting beliefs, suppressed history, holding yourself back, people with a negative vibe, and masochists."
@@ -1179,7 +1179,7 @@
 		"name": "Son of Knives",
 		"rw-name": "Knight of Swords",
 		"major": false,
-		"plant": "Ragweed",
+		"plant": ["Ragweed"],
 		"qualities": {
 			"positive": "innovative, gung ho, energetic, vigilant, clever, and persuasive",
 			"negative": "pushy, aggressive, two-faced, a gossip, a hustler, and likes to take unnecessary risks and spread rumors and drama"
