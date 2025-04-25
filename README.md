@@ -5,4 +5,4 @@
  `pip install streamlit`
 
  To run the website:
- `python -m streamlit run TarotReading\\test.py`
+ `python -m streamlit run TarotReading\test.py`
